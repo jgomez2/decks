@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="AEther Burst"/>
+        <card number="2" name="Cephalid Looter"/>
+        <card number="2" name="Chance Encounter"/>
+        <card number="2" name="Compulsion"/>
+        <card number="4" name="Escape Artist"/>
+        <card number="4" name="Flame Burst"/>
+        <card number="2" name="Immobilizing Ink"/>
+        <card number="4" name="Impulsive Maneuvers"/>
+        <card number="13" name="Island"/>
+        <card number="11" name="Mountain"/>
+        <card number="4" name="Obsessive Search"/>
+        <card number="2" name="Pardic Firecat"/>
+        <card number="4" name="Repel"/>
+        <card number="2" name="Syncopate"/>
+    </zone>
+</cockatrice_deck>

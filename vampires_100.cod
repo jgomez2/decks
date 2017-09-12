@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Anowon, the Ruin Sage"/>
+        <card number="1" name="Avatar of Woe"/>
+        <card number="1" name="Badlands"/>
+        <card number="1" name="Blade of the Bloodchief"/>
+        <card number="1" name="Blood Crypt"/>
+        <card number="1" name="Bloodhall Priest"/>
+        <card number="1" name="Bloodline Keeper"/>
+        <card number="1" name="Bloodlord of Vaasgoth"/>
+        <card number="1" name="Bloodmad Vampire"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Bonfire of the Damned"/>
+        <card number="1" name="Captivating Vampire"/>
+        <card number="1" name="Cathartic Reunion"/>
+        <card number="1" name="Cavern of Souls"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Cover of Darkness"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Dark Depths"/>
+        <card number="1" name="Dark Impostor"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="1" name="Diabolic Edict"/>
+        <card number="1" name="Doom Blade"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Drana, Kalastria Bloodchief"/>
+        <card number="1" name="Drana, Liberator of Malakir"/>
+        <card number="1" name="Dreadbore"/>
+        <card number="1" name="Elusive Tormentor"/>
+        <card number="1" name="Falkenrath Gorger"/>
+        <card number="1" name="Falkenrath Marauders"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Fiery Temper"/>
+        <card number="1" name="Furyblade Vampire"/>
+        <card number="1" name="Gatekeeper of Malakir"/>
+        <card number="1" name="Geth's Verdict"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Grave Pact"/>
+        <card number="1" name="Graven Cairns"/>
+        <card number="1" name="Guul Draz Assassin"/>
+        <card number="1" name="Heir of Falkenrath"/>
+        <card number="1" name="Insolent Neonate"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Liliana of the Dark Realms"/>
+        <card number="1" name="Markov Blademaster"/>
+        <card number="1" name="Mirri the Cursed"/>
+        <card number="1" name="Mizzium Mortars"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Murderous Compulsion"/>
+        <card number="1" name="Nahiri's Wrath"/>
+        <card number="1" name="Necropolis Regent"/>
+        <card number="1" name="Nirkana Revenant"/>
+        <card number="1" name="Olivia Voldaren"/>
+        <card number="1" name="Olivia's Bloodsworn"/>
+        <card number="1" name="Olivia's Dragoon"/>
+        <card number="1" name="Olivia, Mobilized for War"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Quag Vampires"/>
+        <card number="1" name="Rakdos Carnarium"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Rakish Heir"/>
+        <card number="1" name="Shadow Alley Denizen"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="1" name="Sign in Blood"/>
+        <card number="1" name="Smoldering Marsh"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Stromkirk Captain"/>
+        <card number="1" name="Stromkirk Condemned"/>
+        <card number="1" name="Stromkirk Noble"/>
+        <card number="1" name="Sulfurous Springs"/>
+        <card number="11" name="Swamp"/>
+        <card number="1" name="Tainted Peak"/>
+        <card number="1" name="Temple of Malice"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Thief of Blood"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
+        <card number="1" name="Vampire Cutthroat"/>
+        <card number="1" name="Vampire Hexmage"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="1" name="Vampire Nocturnus"/>
+        <card number="1" name="Vesuva"/>
+        <card number="1" name="Void"/>
+        <card number="1" name="Volcanic Fallout"/>
+        <card number="1" name="Whip of Erebos"/>
+        <card number="1" name="Wooded Foothills"/>
+    </zone>
+</cockatrice_deck>

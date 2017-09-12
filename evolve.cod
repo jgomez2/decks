@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Bioshift"/>
+        <card number="2" name="Breeding Pool"/>
+        <card number="4" name="Cloudfin Raptor"/>
+        <card number="4" name="Experiment One"/>
+        <card number="10" name="Forest"/>
+        <card number="4" name="Give // Take"/>
+        <card number="4" name="Gyre Sage"/>
+        <card number="4" name="Hinterland Harbor"/>
+        <card number="7" name="Island"/>
+        <card number="2" name="Master Biomancer"/>
+        <card number="3" name="Ooze Flux"/>
+        <card number="2" name="Prophet of Kruphix"/>
+        <card number="2" name="Renegade Krasis"/>
+        <card number="3" name="Scute Mob"/>
+        <card number="4" name="Shambleshark"/>
+        <card number="3" name="Simic Charm"/>
+        <card number="2" name="Vorel of the Hull Clade"/>
+        <card number="4" name="Wall of Junk"/>
+    </zone>
+    <zone name="side">
+        <card number="3" name="Beast Within"/>
+        <card number="4" name="Oxidize"/>
+    </zone>
+</cockatrice_deck>

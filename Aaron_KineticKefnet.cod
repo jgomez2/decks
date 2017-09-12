@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Aerial Guide"/>
+        <card number="1" name="Aven Reedstalker"/>
+        <card number="1" name="Cancel"/>
+        <card number="1" name="Censor"/>
+        <card number="2" name="Countervailing Winds"/>
+        <card number="1" name="Desert of the Mindful"/>
+        <card number="1" name="Desert's Hold"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Failure // Comply"/>
+        <card number="2" name="Fan Bearer"/>
+        <card number="1" name="Gideon's Intervention"/>
+        <card number="1" name="Glyph Keeper"/>
+        <card number="2" name="God-Pharaoh's Faithful"/>
+        <card number="1" name="Gust Walker"/>
+        <card number="1" name="Illusory Wrappings"/>
+        <card number="10" name="Island"/>
+        <card number="1" name="Kefnet's Last Word"/>
+        <card number="1" name="Kefnet's Monument"/>
+        <card number="1" name="Oketra's Attendant"/>
+        <card number="1" name="Open Into Wonder"/>
+        <card number="11" name="Plains"/>
+        <card number="1" name="Protection of the Hekma"/>
+        <card number="3" name="Sandblast"/>
+        <card number="1" name="Seraph of the Suns"/>
+        <card number="2" name="Strategic Planning"/>
+        <card number="2" name="Survivors' Encampment"/>
+        <card number="3" name="Tah-Crop Elite"/>
+        <card number="1" name="Unquenchable Thirst"/>
+        <card number="1" name="Unsummon"/>
+        <card number="1" name="Unwavering Initiate"/>
+        <card number="1" name="Winged Shepherd"/>
+    </zone>
+</cockatrice_deck>
