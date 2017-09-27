@@ -18,7 +18,6 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Darksteel Colossus"/>
-        <card number="1" name="Decimator of the Provinces"/>
         <card number="1" name="Diligent Farmhand"/>
         <card number="1" name="Dosan the Falling Leaf"/>
         <card number="1" name="Dragonlord Atarka"/>
@@ -49,7 +48,6 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Llanowar Elves"/>
         <card number="1" name="Lurking Predators"/>
-        <card number="1" name="Magmatic Force"/>
         <card number="1" name="Mayael the Anima"/>
         <card number="1" name="Meteor Crater"/>
         <card number="1" name="Mirari's Wake"/>
@@ -83,5 +81,11 @@
         <card number="1" name="Viridian Emissary"/>
         <card number="1" name="Void Winnower"/>
         <card number="1" name="Wood Elves"/>
+        <card number="1" name="Skyline Despot"/>
+        <card number="1" name="Regal Behemoth"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Magmatic Force"/>
+        <card number="1" name="Decimator of the Provinces"/>
     </zone>
 </cockatrice_deck>
