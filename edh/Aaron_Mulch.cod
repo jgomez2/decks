@@ -5,12 +5,10 @@
     <zone name="main">
         <card number="1" name="Acidic Slime"/>
         <card number="1" name="Altar's Reap"/>
-        <card number="1" name="Banshee of the Dread Choir"/>
         <card number="1" name="Barter in Blood"/>
         <card number="1" name="Blood Artist"/>
         <card number="1" name="Butcher of Malakir"/>
         <card number="1" name="Cabal Coffers"/>
-        <card number="1" name="Caller of the Pack"/>
         <card number="1" name="Caustic Caterpillar"/>
         <card number="1" name="Champion of Stray Souls"/>
         <card number="1" name="Cloudthresher"/>
@@ -19,14 +17,13 @@
         <card number="1" name="Crop Sigil"/>
         <card number="1" name="Deathcap Cultivator"/>
         <card number="1" name="Diabolic Edict"/>
-        <card number="1" name="Doomgape"/>
         <card number="1" name="Drain Life"/>
         <card number="1" name="Eater of Hope"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Far Wanderings"/>
         <card number="1" name="Fleshbag Marauder"/>
-        <card number="12" name="Forest"/>
+        <card number="11" name="Forest"/>
         <card number="1" name="Golgari Guildgate"/>
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Golgari Signet"/>
@@ -63,7 +60,6 @@
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Slippery Karst"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Soul Swallower"/>
         <card number="14" name="Swamp"/>
         <card number="1" name="Tainted Wood"/>
         <card number="1" name="Terastodon"/>
@@ -79,5 +75,17 @@
         <card number="1" name="Wall of Blossoms"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Wretched Confluence"/>
+        <card number="1" name="Bone Splinters"/>
+        <card number="1" name="Mycoloth"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="1" name="Necroplasm"/>
+        <card number="1" name="Pestilence Demon"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Doomgape"/>
+        <card number="1" name="Soul Swallower"/>
+        <card number="1" name="Banshee of the Dread Choir"/>
+        <card number="1" name="Kessig Cagebreakers"/>
+        <card number="1" name="Forest"/>
     </zone>
 </cockatrice_deck>
