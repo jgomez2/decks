@@ -8,8 +8,8 @@
         <card number="4" name="Banisher Priest"/>
         <card number="4" name="Brave the Elements"/>
         <card number="4" name="Champion of the Parish"/>
-        <card number="4" name="Elite Inquisitor"/>
         <card number="4" name="Elite Vanguard"/>
+        <card number="3" name="Grand Abolisher"/>
         <card number="4" name="Imposing Sovereign"/>
         <card number="20" name="Plains"/>
         <card number="4" name="Sigiled Paladin"/>
@@ -17,10 +17,10 @@
         <card number="4" name="Swords to Plowshares"/>
     </zone>
     <zone name="side">
-        <card number="3" name="Bonds of Faith"/>
+        <card number="3" name="Elite Inquisitor"/>
         <card number="3" name="Ghostway"/>
-        <card number="3" name="Grand Abolisher"/>
-        <card number="4" name="Oblivion Ring"/>
+        <card number="3" name="Oblivion Ring"/>
+        <card number="4" name="Orim's Chant"/>
         <card number="2" name="Pithing Needle"/>
     </zone>
 </cockatrice_deck>
