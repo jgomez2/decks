@@ -3,7 +3,7 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="40" name="Relentless Rats"/>
+        <card number="39" name="Relentless Rats"/>
         <card number="1" name="Living Death"/>
         <card number="34" name="Swamp"/>
         <card number="1" name="Cabal Coffers"/>
@@ -14,7 +14,6 @@
         <card number="1" name="Nezumi Graverobber"/>
         <card number="1" name="Pestilence"/>
         <card number="1" name="Damnation"/>
-        <card number="1" name="Solemn Simulacrum"/>
         <card number="1" name="Diabolic Edict"/>
         <card number="1" name="Diabolic Tutor"/>
         <card number="1" name="Pack Rat"/>
@@ -31,10 +30,14 @@
         <card number="1" name="Thrumming Stone"/>
         <card number="1" name="Door of Destinies"/>
         <card number="1" name="Sol Ring"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Phyrexian Arena"/>
     </zone>
     <zone name="side">
         <card number="1" name="Chainer's Edict"/>
         <card number="1" name="Army of the Damned"/>
         <card number="3" name="Swamp"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Relentless Rats"/>
     </zone>
 </cockatrice_deck>

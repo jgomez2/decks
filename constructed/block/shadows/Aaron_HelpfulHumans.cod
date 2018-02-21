@@ -17,7 +17,7 @@
         <card number="3" name="Lone Rider"/>
         <card number="2" name="Odric, Lunarch Marshal"/>
         <card number="11" name="Plains"/>
-        <card number="2" name="Repel the Abominable"/>
+        <card number="1" name="Repel the Abominable"/>
         <card number="1" name="Thalia's Lancers"/>
         <card number="1" name="Thalia's Lieutenant"/>
         <card number="2" name="Thalia, Heretic Cathar"/>
@@ -28,18 +28,5 @@
         <card number="1" name="Warped Landscape"/>
         <card number="1" name="Westvale Abbey"/>
         <card number="1" name="Woodland Patrol"/>
-        <card number="1" name="Lone Revenant"/>
-        <card number="1" name="Neglected Heirloom"/>
-        <card number="2" name="Byway Courier"/>
-        <card number="1" name="Pious Evangel"/>
-        <card number="1" name="Springsage Ritual"/>
-        <card number="2" name="Root Out"/>
-    </zone>
-    <zone name="side">
-        <card number="1" name="Lone Rider"/>
-        <card number="1" name="Hope Against Hope"/>
-        <card number="1" name="Courageous Outrider"/>
-        <card number="1" name="Faith Unbroken"/>
-        <card number="1" name="Repel the Abominable"/>
     </zone>
 </cockatrice_deck>
