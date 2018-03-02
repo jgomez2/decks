@@ -1,0 +1,39 @@
+4 Ancient Ziggurat
+1 Apocalypse Hydra
+3 Beacon Behemoth
+3 Behemoth Sledge
+1 Cliffrunner Behemoth
+3 Druid of the Anima
+1 Elspeth, Knight-Errant
+1 Exotic Orchard
+1 Godsire
+3 Jungle Shrine
+1 Keeper of Progenitus
+4 Knotvine Mystic
+4 Mage Slayer
+2 Marisi's Twinclaws
+1 Mayael's Aria
+1 Meglonoth
+1 Mighty Emergence
+3 Mosstodon
+4 Naya Panorama
+1 Quietus Spike
+3 Rakeclaw Gargantuan
+3 Reliquary Tower
+1 Retaliator Griffin
+4 Rupture Spire
+4 Shard Convergence
+1 Spearbreaker Behemoth
+2 Trace of Abundance
+4 Unstable Frontier
+2 Woolly Thoctar
+1 Woolly Thoctar
+
+Sideboard:
+3 Ember Weaver
+2 Filigree Fracture
+4 Oblivion Ring
+2 Scattershot Archer
+2 Vithian Renegades
+2 Volcanic Fallout
+
