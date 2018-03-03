@@ -8,22 +8,19 @@
         <card number="1" name="Barter in Blood"/>
         <card number="1" name="Blood Artist"/>
         <card number="1" name="Butcher of Malakir"/>
-        <card number="1" name="Cabal Coffers"/>
         <card number="1" name="Caustic Caterpillar"/>
         <card number="1" name="Champion of Stray Souls"/>
         <card number="1" name="Cloudthresher"/>
         <card number="1" name="Command Tower"/>
-        <card number="1" name="Corpse Augur"/>
         <card number="1" name="Crop Sigil"/>
         <card number="1" name="Deathcap Cultivator"/>
         <card number="1" name="Diabolic Edict"/>
         <card number="1" name="Drain Life"/>
-        <card number="1" name="Eater of Hope"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Far Wanderings"/>
         <card number="1" name="Fleshbag Marauder"/>
-        <card number="11" name="Forest"/>
+        <card number="12" name="Forest"/>
         <card number="1" name="Golgari Guildgate"/>
         <card number="1" name="Golgari Rot Farm"/>
         <card number="1" name="Golgari Signet"/>
@@ -36,7 +33,6 @@
         <card number="1" name="Innocent Blood"/>
         <card number="1" name="Jarad, Golgari Lich Lord"/>
         <card number="1" name="Jungle Hollow"/>
-        <card number="1" name="Kessig Cagebreakers"/>
         <card number="1" name="Kokusho, the Evening Star"/>
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Mazirek, Kraul Death Priest"/>
@@ -44,7 +40,6 @@
         <card number="1" name="Meren of Clan Nel Toth"/>
         <card number="1" name="Mulch"/>
         <card number="1" name="Nevinyrral's Disk"/>
-        <card number="1" name="Pawn of Ulamog"/>
         <card number="1" name="Pernicious Deed"/>
         <card number="1" name="Pestilence"/>
         <card number="1" name="Phyrexian Plaguelord"/>
@@ -80,12 +75,20 @@
         <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Necroplasm"/>
         <card number="1" name="Pestilence Demon"/>
+        <card number="1" name="Doomgape"/>
+        <card number="1" name="Dictate of Erebos"/>
+        <card number="1" name="Night of Souls' Betrayal"/>
+        <card number="1" name="Virulent Plague"/>
     </zone>
     <zone name="side">
         <card number="1" name="Doomgape"/>
         <card number="1" name="Soul Swallower"/>
         <card number="1" name="Banshee of the Dread Choir"/>
-        <card number="1" name="Kessig Cagebreakers"/>
+        <card number="2" name="Kessig Cagebreakers"/>
         <card number="1" name="Forest"/>
+        <card number="1" name="Corpse Augur"/>
+        <card number="1" name="Eater of Hope"/>
+        <card number="1" name="Pawn of Ulamog"/>
+        <card number="1" name="Cabal Coffers"/>
     </zone>
 </cockatrice_deck>
