@@ -10,15 +10,12 @@
         <card number="1" name="Blossoming Sands"/>
         <card number="1" name="Bogardan Hellkite"/>
         <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Boros Guildgate"/>
         <card number="1" name="Breaker of Armies"/>
         <card number="1" name="Burgeoning"/>
-        <card number="1" name="Caller of the Pack"/>
         <card number="1" name="Cataclysm"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Darksteel Colossus"/>
-        <card number="1" name="Dosan the Falling Leaf"/>
         <card number="1" name="Dragonlord Atarka"/>
         <card number="1" name="Druid of the Anima"/>
         <card number="1" name="Elvish Mystic"/>
@@ -27,10 +24,8 @@
         <card number="1" name="Far Wanderings"/>
         <card number="1" name="Farseek"/>
         <card number="9" name="Forest"/>
-        <card number="1" name="Gaea's Revenge"/>
         <card number="1" name="Gisela, Blade of Goldnight"/>
         <card number="1" name="Godsire"/>
-        <card number="1" name="Gruul Guildgate"/>
         <card number="1" name="Harrow"/>
         <card number="1" name="Illusionist's Bracers"/>
         <card number="1" name="Iona, Shield of Emeria"/>
@@ -38,7 +33,6 @@
         <card number="1" name="It That Betrays"/>
         <card number="1" name="Jungle Shrine"/>
         <card number="1" name="Karametra, God of Harvests"/>
-        <card number="1" name="Keeper of Progenitus"/>
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Krosan Verge"/>
         <card number="1" name="Lightning Greaves"/>
@@ -47,22 +41,17 @@
         <card number="1" name="Mayael the Anima"/>
         <card number="1" name="Meteor Crater"/>
         <card number="1" name="Mirari's Wake"/>
-        <card number="1" name="Moldgraf Monstrosity"/>
-        <card number="5" name="Mountain"/>
+        <card number="4" name="Mountain"/>
         <card number="1" name="Naya Panorama"/>
-        <card number="1" name="Nylea, God of the Hunt"/>
         <card number="1" name="Oak Street Innkeeper"/>
         <card number="1" name="Obelisk of Naya"/>
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Pathrazer of Ulamog"/>
-        <card number="9" name="Plains"/>
-        <card number="1" name="Price of Glory"/>
+        <card number="7" name="Plains"/>
         <card number="1" name="Quirion Elves"/>
         <card number="1" name="Rith's Grove"/>
         <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Sakura-Tribe Scout"/>
-        <card number="1" name="Seeker of Skybreak"/>
-        <card number="1" name="Selesnya Guildgate"/>
         <card number="1" name="Siege Behemoth"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Spearbreaker Behemoth"/>
@@ -71,24 +60,31 @@
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Temple of the False God"/>
-        <card number="1" name="Thornscape Apprentice"/>
         <card number="1" name="Tyrant of Discord"/>
         <card number="1" name="Ulamog's Crusher"/>
         <card number="1" name="Viridian Emissary"/>
         <card number="1" name="Void Winnower"/>
-        <card number="1" name="Wood Elves"/>
         <card number="1" name="Skyline Despot"/>
         <card number="1" name="Regal Behemoth"/>
         <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Fyndhorn Elves"/>
         <card number="1" name="Vivid Grove"/>
-        <card number="1" name="Sylvan Primordial"/>
-    </zone>
-    <zone name="side">
-        <card number="1" name="Magmatic Force"/>
-        <card number="1" name="Decimator of the Provinces"/>
-        <card number="1" name="Diligent Farmhand"/>
-        <card number="1" name="Gruul Turf"/>
-        <card number="1" name="Hand of Emrakul"/>
+        <card number="1" name="Elvish Piper"/>
+        <card number="1" name="Quirion Explorer"/>
+        <card number="1" name="Vizier of the Menagerie"/>
+        <card number="1" name="Fervor"/>
+        <card number="1" name="Fires of Yavimaya"/>
+        <card number="1" name="Sylvan Library"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Long Road Home"/>
+        <card number="1" name="Clifftop Retreat"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Wind-Scarred Crag"/>
+        <card number="1" name="Crown of Convergence"/>
+        <card number="1" name="Seasons Past"/>
     </zone>
 </cockatrice_deck>
