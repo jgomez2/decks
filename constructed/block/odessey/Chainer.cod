@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Balthor the Defiled"/>
+        <card number="3" name="Blazing Salvo"/>
+        <card number="3" name="Chainer's Edict"/>
+        <card number="1" name="Chainer, Dementia Master"/>
+        <card number="4" name="Faceless Butcher"/>
+        <card number="4" name="Fiery Temper"/>
+        <card number="2" name="Ghastly Demise"/>
+        <card number="2" name="Innocent Blood"/>
+        <card number="1" name="Laquatus's Champion"/>
+        <card number="4" name="Mesmeric Fiend"/>
+        <card number="5" name="Mountain"/>
+        <card number="2" name="Pardic Collaborator"/>
+        <card number="1" name="Petradon"/>
+        <card number="4" name="Petravark"/>
+        <card number="1" name="Sadistic Hypnotist"/>
+        <card number="1" name="Shadowblood Ridge"/>
+        <card number="2" name="Soul Scourge"/>
+        <card number="2" name="Stitch Together"/>
+        <card number="10" name="Swamp"/>
+        <card number="3" name="Tainted Peak"/>
+        <card number="4" name="Unhinge"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Cabal Ritual"/>
+        <card number="4" name="Demoralize"/>
+        <card number="2" name="Execute"/>
+        <card number="2" name="Filth"/>
+        <card number="4" name="Flash of Defiance"/>
+        <card number="1" name="Slithery Stalker"/>
+    </zone>
+</cockatrice_deck>

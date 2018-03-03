@@ -4,23 +4,24 @@
     <comments></comments>
     <zone name="main">
         <card number="4" name="Aether Vial"/>
-        <card number="4" name="Aquitect's Will"/>
-        <card number="4" name="Coralhelm Commander"/>
+        <card number="2" name="Aquitect's Will"/>
+        <card number="3" name="Counterbalance"/>
         <card number="4" name="Daze"/>
         <card number="4" name="Force of Will"/>
-        <card number="14" name="Island"/>
+        <card number="12" name="Island"/>
         <card number="4" name="Lord of Atlantis"/>
         <card number="4" name="Master of the Pearl Trident"/>
         <card number="4" name="Merrow Reejerey"/>
-        <card number="4" name="Mutavault"/>
+        <card number="3" name="Mutavault"/>
         <card number="4" name="Phantasmal Image"/>
         <card number="4" name="Silvergill Adept"/>
         <card number="4" name="Standstill"/>
+        <card number="4" name="Wasteland"/>
     </zone>
     <zone name="side">
-        <card number="3" name="Hydroblast"/>
+        <card number="1" name="Aquitect's Will"/>
+        <card number="2" name="Hydroblast"/>
         <card number="2" name="Pithing Needle"/>
-        <card number="2" name="Relic of Progenitus"/>
         <card number="2" name="Sleep"/>
         <card number="3" name="Spell Pierce"/>
         <card number="3" name="Vapor Snag"/>

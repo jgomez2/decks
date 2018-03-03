@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Arcane Sanctum"/>
+        <card number="2" name="Court Homunculus"/>
+        <card number="4" name="Esper Stormblade"/>
+        <card number="2" name="Esperzoa"/>
+        <card number="4" name="Ethersworn Canonist"/>
+        <card number="3" name="Ethersworn Shieldmage"/>
+        <card number="4" name="Fieldmist Borderpost"/>
+        <card number="4" name="Glaze Fiend"/>
+        <card number="3" name="Island"/>
+        <card number="4" name="Master of Etherium"/>
+        <card number="4" name="Mistvein Borderpost"/>
+        <card number="6" name="Plains"/>
+        <card number="4" name="Swamp"/>
+        <card number="4" name="Thopter Foundry"/>
+        <card number="4" name="Tidehollow Sculler"/>
+        <card number="4" name="Vedalken Outlander"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Courier's Capsule"/>
+        <card number="3" name="Dispeller's Capsule"/>
+        <card number="4" name="Etherium Sculptor"/>
+        <card number="4" name="Meddling Mage"/>
+        <card number="1" name="Obelisk of Alara"/>
+        <card number="2" name="Obelisk of Esper"/>
+        <card number="4" name="Oblivion Ring"/>
+        <card number="4" name="Path to Exile"/>
+        <card number="2" name="Protomatter Powder"/>
+        <card number="3" name="Sanctum Gargoyle"/>
+        <card number="1" name="Scourglass"/>
+        <card number="2" name="Soul Manipulation"/>
+    </zone>
+</cockatrice_deck>
