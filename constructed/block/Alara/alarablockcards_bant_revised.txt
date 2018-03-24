@@ -1,9 +1,7 @@
 4 Akrasan Squire
 2 Ancient Ziggurat
-3 Ardent Plea
+4 Ardent Plea
 4 Aven Squire
-1 Bant Charm
-1 Courier's Capsule
 1 Elspeth, Knight-Errant
 4 Ethercaste Knight
 2 Forest
@@ -11,13 +9,13 @@
 3 Island
 1 Noble Hierarch
 4 Oblivion Ring
-2 Path to Exile
+4 Path to Exile
 10 Plains
 4 Qasali Pridemage
 1 Rafiq of the Many
 2 Rhox Charger
-2 Rupture Spire
-2 Seaside Citadel
+1 Rupture Spire
+3 Seaside Citadel
 3 Sigiled Paladin
 1 Stoic Angel
 

@@ -1,33 +1,18 @@
-4 Ancient Ziggurat
-1 Apocalypse Hydra
-3 Beacon Behemoth
-3 Behemoth Sledge
-1 Cliffrunner Behemoth
-3 Druid of the Anima
-1 Elspeth, Knight-Errant
-1 Exotic Orchard
-1 Godsire
-3 Jungle Shrine
-1 Keeper of Progenitus
+3 Blitz Hellion
+4 Cliffrunner Behemoth
+4 Druid of the Anima
+3 Firewild Borderpost
+6 Forest
+4 Jungle Shrine
 4 Knotvine Mystic
 4 Mage Slayer
-2 Marisi's Twinclaws
-1 Mayael's Aria
-1 Meglonoth
-1 Mighty Emergence
-3 Mosstodon
-4 Naya Panorama
-1 Quietus Spike
-3 Rakeclaw Gargantuan
-3 Reliquary Tower
-1 Retaliator Griffin
-4 Rupture Spire
-4 Shard Convergence
-1 Spearbreaker Behemoth
-2 Trace of Abundance
-4 Unstable Frontier
-2 Woolly Thoctar
-1 Woolly Thoctar
+4 Meglonoth
+4 Mountain
+4 Naya Charm
+4 Plains
+4 Rakeclaw Gargantuan
+4 Wild Nacatl
+4 Woolly Thoctar
 
 Sideboard:
 3 Ember Weaver

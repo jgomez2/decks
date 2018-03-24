@@ -1,0 +1,24 @@
+3 Bituminous Blast
+4 Blightning
+4 Bloodbraid Elf
+3 Bloodhall Ooze
+2 Branching Bolt
+2 Broodmate Dragon
+5 Forest
+4 Jund Hackblade
+3 Maelstrom Pulse
+7 Mountain
+2 Nyxathid
+4 Putrid Leech
+4 Savage Lands
+2 Sprouting Thrinax
+7 Swamp
+4 Terminate
+
+Sideboard:
+2 Branching Bolt
+1 Hellspark Elemental
+2 Jund Charm
+1 Necrogenesis
+2 Vithian Renegades
+
