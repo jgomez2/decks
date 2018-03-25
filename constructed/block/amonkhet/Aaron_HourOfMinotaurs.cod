@@ -7,23 +7,22 @@
         <card number="3" name="Bloodlust Inciter"/>
         <card number="4" name="Bloodrage Brawler"/>
         <card number="4" name="Burning-Fist Minotaur"/>
-        <card number="2" name="Cursed Minotaur"/>
-        <card number="3" name="Desert Cerodon"/>
+        <card number="4" name="Cursed Minotaur"/>
         <card number="2" name="Frontline Devastator"/>
         <card number="3" name="Neheb, the Worthy"/>
         <card number="4" name="Fling"/>
         <card number="4" name="Supernatural Stamina"/>
-        <card number="3" name="Cut // Ribbons"/>
-        <card number="2" name="Insult // Injury"/>
-        <card number="14" name="Mountain"/>
+        <card number="4" name="Cut // Ribbons"/>
+        <card number="3" name="Insult // Injury"/>
+        <card number="13" name="Mountain"/>
         <card number="8" name="Swamp"/>
     </zone>
     <zone name="side">
-        <card number="4" name="Abrade"/>
-        <card number="3" name="Painful Lesson"/>
-        <card number="3" name="Never // Return"/>
-        <card number="2" name="Minotaur Sureshot"/>
-        <card number="2" name="Insult // Injury"/>
-        <card number="1" name="Cut // Ribbons"/>
+        <card number="2" name="Never // Return"/>
+        <card number="4" name="Minotaur Sureshot"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Neheb, the Worthy"/>
+        <card number="3" name="Merciless Javelineer"/>
+        <card number="4" name="Crash Through"/>
     </zone>
 </cockatrice_deck>
