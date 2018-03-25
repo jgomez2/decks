@@ -10,7 +10,6 @@
         <card number="1" name="Blossoming Sands"/>
         <card number="1" name="Bogardan Hellkite"/>
         <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Breaker of Armies"/>
         <card number="1" name="Burgeoning"/>
         <card number="1" name="Cataclysm"/>
         <card number="1" name="Command Tower"/>
@@ -86,5 +85,6 @@
         <card number="1" name="Wind-Scarred Crag"/>
         <card number="1" name="Crown of Convergence"/>
         <card number="1" name="Seasons Past"/>
+        <card number="1" name="Cream of the Crop"/>
     </zone>
 </cockatrice_deck>
