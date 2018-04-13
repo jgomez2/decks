@@ -71,7 +71,6 @@
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Wretched Confluence"/>
         <card number="1" name="Bone Splinters"/>
-        <card number="1" name="Mycoloth"/>
         <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Necroplasm"/>
         <card number="1" name="Pestilence Demon"/>
@@ -80,5 +79,9 @@
         <card number="1" name="Night of Souls' Betrayal"/>
         <card number="1" name="Virulent Plague"/>
         <card number="1" name="Leechridden Swamp"/>
+        <card number="1" name="Sheoldred, Whispering One"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Mycoloth"/>
     </zone>
 </cockatrice_deck>
