@@ -55,7 +55,7 @@
         <card number="1" name="Skullclamp"/>
         <card number="1" name="Slippery Karst"/>
         <card number="1" name="Sol Ring"/>
-        <card number="14" name="Swamp"/>
+        <card number="13" name="Swamp"/>
         <card number="1" name="Tainted Wood"/>
         <card number="1" name="Terastodon"/>
         <card number="1" name="Terramorphic Expanse"/>
@@ -71,7 +71,6 @@
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Wretched Confluence"/>
         <card number="1" name="Bone Splinters"/>
-        <card number="1" name="Mycoloth"/>
         <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Necroplasm"/>
         <card number="1" name="Pestilence Demon"/>
@@ -79,16 +78,10 @@
         <card number="1" name="Dictate of Erebos"/>
         <card number="1" name="Night of Souls' Betrayal"/>
         <card number="1" name="Virulent Plague"/>
+        <card number="1" name="Leechridden Swamp"/>
+        <card number="1" name="Sheoldred, Whispering One"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Doomgape"/>
-        <card number="1" name="Soul Swallower"/>
-        <card number="1" name="Banshee of the Dread Choir"/>
-        <card number="2" name="Kessig Cagebreakers"/>
-        <card number="1" name="Forest"/>
-        <card number="1" name="Corpse Augur"/>
-        <card number="1" name="Eater of Hope"/>
-        <card number="1" name="Pawn of Ulamog"/>
-        <card number="1" name="Cabal Coffers"/>
+        <card number="1" name="Mycoloth"/>
     </zone>
 </cockatrice_deck>

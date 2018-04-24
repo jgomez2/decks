@@ -10,8 +10,6 @@
         <card number="1" name="Blossoming Sands"/>
         <card number="1" name="Bogardan Hellkite"/>
         <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Breaker of Armies"/>
-        <card number="1" name="Burgeoning"/>
         <card number="1" name="Cataclysm"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Cultivate"/>
@@ -29,7 +27,6 @@
         <card number="1" name="Harrow"/>
         <card number="1" name="Illusionist's Bracers"/>
         <card number="1" name="Iona, Shield of Emeria"/>
-        <card number="1" name="Iroas, God of Victory"/>
         <card number="1" name="It That Betrays"/>
         <card number="1" name="Jungle Shrine"/>
         <card number="1" name="Karametra, God of Harvests"/>
@@ -43,7 +40,6 @@
         <card number="1" name="Mirari's Wake"/>
         <card number="4" name="Mountain"/>
         <card number="1" name="Naya Panorama"/>
-        <card number="1" name="Oak Street Innkeeper"/>
         <card number="1" name="Obelisk of Naya"/>
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Pathrazer of Ulamog"/>
@@ -86,5 +82,14 @@
         <card number="1" name="Wind-Scarred Crag"/>
         <card number="1" name="Crown of Convergence"/>
         <card number="1" name="Seasons Past"/>
+        <card number="1" name="Cream of the Crop"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Vorinclex, Voice of Hunger"/>
+        <card number="1" name="Elemental Bond"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Iroas, God of Victory"/>
+        <card number="1" name="Burgeoning"/>
+        <card number="1" name="Oak Street Innkeeper"/>
     </zone>
 </cockatrice_deck>
