@@ -1,0 +1,73 @@
+1 Anger
+1 Ashnod's Altar
+1 Basilisk Collar
+1 Battle Hymn
+1 Battle Squadron
+1 Burn at the Stake
+1 Chaos Warp
+1 Coat of Arms
+1 Disrupt Decorum
+1 Eldrazi Monument
+1 Faithless Looting
+1 Fervor
+1 Gempalm Incinerator
+1 Goblin Assassin
+1 Goblin Chieftain
+1 Goblin Chirurgeon
+1 Goblin King
+1 Goblin Matron
+1 Goblin Offensive
+1 Goblin Rally
+1 Goblin Recruiter
+1 Goblin Ringleader
+1 Goblin Sharpshooter
+1 Goblin Tinkerer
+1 Goblin War Strike
+1 Goblin Warchief
+1 Gratuitous Violence
+1 Hammer of Purphoros
+1 Hazoret's Monument
+1 Herald's Horn
+1 Horde of Boggarts
+1 Hordeling Outburst
+1 Illusionist's Bracers
+1 Impact Tremors
+1 Kiki-Jiki, Mirror Breaker
+1 Kindred Charge
+1 Krenko's Command
+1 Krenko, Mob Boss
+1 Last-Ditch Effort
+1 Lightning Crafter
+1 Lightning Greaves
+1 Magewright's Stone
+1 Magus of the Wheel
+1 Mana Echoes
+1 Mass Hysteria
+1 Massive Raid
+1 Mob Justice
+1 Moggcatcher
+30 Mountain
+1 Ogre Battledriver
+1 Purphoros, God of the Forge
+1 Quest for the Goblin Lord
+1 Raid Bombardment
+1 Reckless One
+1 Relentless Assault
+1 Reroute
+1 Rummaging Goblin
+1 Seize the Day
+1 Sensation Gorger
+1 Skirk Prospector
+1 Skullclamp
+1 Smash
+1 Sol Ring
+1 Swiftfoot Boots
+1 The Immortal Sun
+1 Thousand-Year Elixir
+1 Throne of the God-Pharaoh
+1 Vandalblast
+1 Vanquisher's Banner
+1 Voracious Dragon
+1 Warren Instigator
+
+

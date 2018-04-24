@@ -1,0 +1,85 @@
+1 Acidic Slime
+1 AEther Mutation
+1 Arachnogenesis
+1 Bane of Progress
+1 Beastmaster Ascension
+1 Bioshift
+1 Blighted Agent
+1 Botanical Sanctum
+1 Bow of Nylea
+1 Broken Fall
+1 Champion of Lambholt
+1 Command Beacon
+1 Command Tower
+1 Dense Foliage
+1 Elusive Krasis
+1 Evolving Wilds
+1 Ezuri, Claw of Progress
+1 Fable of Wolf and Owl
+1 Fathom Mage
+14 Forest
+1 Forgotten Ancient
+1 Freyalise, Llanowar's Fury
+1 Fungal Sprouting
+1 Gyre Sage
+1 Hadana's Climb
+1 Halimar Depths
+1 Harvest Season
+1 Herald of Secret Streams
+1 High Market
+1 Inspiring Call
+10 Island
+1 Kodama's Reach
+1 Krosan Grip
+1 Llanowar Reborn
+1 Llawan, Cephalid Empress
+1 Lorescale Coatl
+1 Mist-Cloaked Herald
+1 Momir Vig, Simic Visionary
+1 Mosswort Bridge
+1 Mycoloth
+1 Naturalize
+1 Negate
+1 Oran-Rief, the Vastwood
+1 Panharmonicon
+1 Patagia Viper
+1 Path of Discovery
+1 Pathbreaker Ibex
+1 Predator Ooze
+1 Rampant Growth
+1 Reliquary Tower
+1 Rhonas's Monument
+1 Sakura-Tribe Elder
+1 Second Harvest
+1 Simic Growth Chamber
+1 Simic Manipulator
+1 Siren Stormtamer
+1 Snakeform
+1 Sol Ring
+1 Solemn Simulacrum
+1 Solidarity of Heroes
+1 Swiftfoot Boots
+1 Sword of the Animist
+1 Tendershoot Dryad
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Thought Vessel
+1 Transguild Promenade
+1 Traverse the Outlands
+1 Trygon Predator
+1 Verdant Confluence
+1 Viral Drake
+1 Vivid Creek
+1 Vivid Grove
+1 Vorel of the Hull Clade
+1 Wild Beastmaster
+1 Wildwood Rebirth
+1 Worldly Tutor
+1 Zameck Guildmage
+
+Sideboard:
+1 Servant of the Scale
+1 Tel-Jilad Fallen
+1 Triumph of the Hordes
+1 Tuskguard Captain
+
