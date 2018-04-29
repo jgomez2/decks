@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Blightning"/>
+        <card number="1" name="Cruel Ultimatum"/>
+        <card number="4" name="Crumbling Necropolis"/>
+        <card number="1" name="Elder Mastery"/>
+        <card number="4" name="Fire-Field Ogre"/>
+        <card number="4" name="Grixis Charm"/>
+        <card number="4" name="Grixis Grimblade"/>
+        <card number="4" name="Island"/>
+        <card number="4" name="Kederekt Creeper"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Nicol Bolas, Planeswalker"/>
+        <card number="4" name="Nyxathid"/>
+        <card number="4" name="Sedraxis Specter"/>
+        <card number="1" name="Slave of Bolas"/>
+        <card number="8" name="Swamp"/>
+        <card number="4" name="Terminate"/>
+        <card number="1" name="Thraximundar"/>
+        <card number="1" name="Unscythe, Killer of Kings"/>
+    </zone>
+    <zone name="side">
+        <card number="4" name="Agony Warp"/>
+        <card number="4" name="Countersquall"/>
+        <card number="4" name="Thought Hemorrhage"/>
+    </zone>
+</cockatrice_deck>
