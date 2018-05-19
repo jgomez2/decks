@@ -1,0 +1,87 @@
+1 Acidic Slime
+1 Angel of Serenity
+1 Arcanis the Omnipotent
+1 Azami, Lady of Scrolls
+1 Azor, the Lawbringer
+1 Azorius Chancery
+1 Azorius Guildgate
+1 Bane of Progress
+1 Bant Panorama
+1 Beastmaster Ascension
+1 Blossoming Sands
+1 Brago, King Eternal
+1 Call for Unity
+1 Cloudshift
+1 Coiling Oracle
+1 Cold-Eyed Selkie
+1 Collective Effort
+1 Command Tower
+1 Conjurer's Closet
+1 Control Magic
+1 Darksteel Mutation
+1 Derevi, Empyrial Tactician
+1 Djinn of Infinite Deceits
+1 Edric, Spymaster of Trest
+1 Eerie Interlude
+1 Eladamri's Call
+1 Elvish Piper
+1 Empress Galina
+1 Evolving Wilds
+1 Faerie Conclave
+1 Farhaven Elf
+1 Fauna Shaman
+6 Forest
+1 Forgotten Ancient
+1 Glory
+1 Hunting Grounds
+1 Ishai, Ojutai Dragonspeaker
+6 Island
+1 Karametra, God of Harvests
+1 Kazandu Tuskcaller
+1 Lavinia of the Tenth
+1 Managorger Hydra
+1 Merfolk Looter
+1 Mikaeus, the Lunarch
+1 Mirari's Wake
+1 Mirror Entity
+1 Mistmeadow Witch
+1 Momentary Blink
+1 Monastery Siege
+1 Murkfiend Liege
+1 Novijen, Heart of Progress
+1 Opal Palace
+1 Opposition
+1 Path of Discovery
+6 Plains
+1 Progenitor Mimic
+1 Reclamation Sage
+1 Rishadan Footpad
+1 Roon of the Hidden Realm
+1 Rubinia Soulsinger
+1 Rupture Spire
+1 Saltcrusted Steppe
+1 Seaside Citadel
+1 Secluded Steppe
+1 Sejiri Refuge
+1 Selesnya Guildgate
+1 Selesnya Sanctuary
+1 Simic Guildgate
+1 Skullwinder
+1 Slaughter the Strong
+1 Sol Ring
+1 Soltari Visionary
+1 Stonehorn Dignitary
+1 Sunscorch Regent
+1 Swiftfoot Boots
+1 Teferi's Protection
+1 Temple of the False God
+1 Terramorphic Expanse
+1 Transguild Promenade
+1 Trostani, Selesnya's Voice
+1 Viridian Corrupter
+1 Vorel of the Hull Clade
+1 Weaver of Currents
+1 Willbreaker
+1 Wonder
+
+

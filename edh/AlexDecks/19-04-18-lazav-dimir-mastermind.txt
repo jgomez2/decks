@@ -1,0 +1,76 @@
+1 AEtherize
+1 Altar of the Brood
+1 Armillary Sphere
+1 Blighted Fen
+1 Body Double
+1 Bonehoard
+1 Cemetery Puca
+1 Clone
+1 Command Tower
+1 Consuming Aberration
+1 Control Magic
+1 Dark Deal
+1 Diabolic Tutor
+1 Dimir Doppelganger
+1 Dimir Guildgate
+1 Dimir Infiltrator
+1 Djinn of Infinite Deceits
+1 Doom Blade
+1 Dreamborn Muse
+1 Evil Twin
+1 Evolving Wilds
+1 Fate Unraveler
+1 Fated Infatuation
+1 Field of Ruin
+1 Frantic Search
+1 Fraying Sanity
+1 Gigantoplasm
+1 Grisly Spectacle
+1 Guiltfeeder
+1 Halimar Depths
+1 Helm of Possession
+1 Identity Thief
+14 Island
+1 Keening Stone
+1 Lazav, Dimir Mastermind
+1 Magus of the Jar
+1 Manic Scribe
+1 Medicine Bag
+1 Mind Grind
+1 Mind's Dilation
+1 Mindcrank
+1 Mirko Vosk, Mind Drinker
+1 Murder
+1 Nighthowler
+1 Paranoid Delusions
+1 Path of Ancestry
+1 Perplex
+1 Perplexing Chimera
+1 Phenax, God of Deception
+1 Pilfered Plans
+1 Raiders' Wake
+1 Returned Reveler
+1 Rogue's Passage
+1 Siren of the Silent Song
+1 Sol Ring
+1 Sphinx's Tutelage
+1 Stolen Identity
+1 Stunt Double
+1 Sudden Spoiling
+14 Swamp
+1 Sygg, River Cutthroat
+1 Szadek, Lord of Secrets
+1 Terramorphic Expanse
+1 Thaumatic Compass
+1 Thespian's Stage
+1 Thought Scour
+1 Tome Scour
+1 Tragic Slip
+1 Vela the Night-Clad
+1 Vivid Creek
+1 Vizier of Many Faces
+1 Whispering Madness
+1 Wight of Precinct Six
+1 Windfall
+
+
