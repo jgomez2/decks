@@ -9,13 +9,10 @@
         <card number="1" name="Blood Artist"/>
         <card number="1" name="Butcher of Malakir"/>
         <card number="1" name="Caustic Caterpillar"/>
-        <card number="1" name="Champion of Stray Souls"/>
         <card number="1" name="Cloudthresher"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Crop Sigil"/>
-        <card number="1" name="Deathcap Cultivator"/>
         <card number="1" name="Diabolic Edict"/>
-        <card number="1" name="Drain Life"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Far Wanderings"/>
@@ -34,15 +31,12 @@
         <card number="1" name="Jarad, Golgari Lich Lord"/>
         <card number="1" name="Jungle Hollow"/>
         <card number="1" name="Kokusho, the Evening Star"/>
-        <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Mazirek, Kraul Death Priest"/>
         <card number="1" name="Merciless Executioner"/>
         <card number="1" name="Meren of Clan Nel Toth"/>
         <card number="1" name="Mulch"/>
         <card number="1" name="Nevinyrral's Disk"/>
         <card number="1" name="Pernicious Deed"/>
         <card number="1" name="Pestilence"/>
-        <card number="1" name="Phyrexian Plaguelord"/>
         <card number="1" name="Phyrexian Rager"/>
         <card number="1" name="Polluted Mire"/>
         <card number="1" name="Puppeteer Clique"/>
@@ -63,25 +57,39 @@
         <card number="1" name="Tribute to the Wild"/>
         <card number="1" name="Vampiric Rites"/>
         <card number="1" name="Victimize"/>
-        <card number="1" name="Viridian Emissary"/>
-        <card number="1" name="Viridian Zealot"/>
         <card number="1" name="Viscera Seer"/>
         <card number="1" name="Vulturous Zombie"/>
         <card number="1" name="Wall of Blossoms"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Wretched Confluence"/>
-        <card number="1" name="Bone Splinters"/>
         <card number="1" name="Disciple of Bolas"/>
         <card number="1" name="Necroplasm"/>
         <card number="1" name="Pestilence Demon"/>
-        <card number="1" name="Doomgape"/>
         <card number="1" name="Dictate of Erebos"/>
         <card number="1" name="Night of Souls' Betrayal"/>
         <card number="1" name="Virulent Plague"/>
         <card number="1" name="Leechridden Swamp"/>
         <card number="1" name="Sheoldred, Whispering One"/>
+        <card number="1" name="Champion of Stray Souls"/>
+        <card number="1" name="Viridian Zealot"/>
+        <card number="1" name="Barrier of Bones"/>
+        <card number="1" name="Glowspore Shaman"/>
+        <card number="1" name="Burglar Rat"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Golgari Findbroker"/>
+        <card number="1" name="Lotleth Giant"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Golgari Locket"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mycoloth"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Deathcap Cultivator"/>
+        <card number="1" name="Doomgape"/>
+        <card number="1" name="Mazirek, Kraul Death Priest"/>
+        <card number="1" name="Phyrexian Plaguelord"/>
+        <card number="1" name="Viridian Emissary"/>
+        <card number="1" name="Bone Splinters"/>
+        <card number="1" name="Drain Life"/>
     </zone>
 </cockatrice_deck>
