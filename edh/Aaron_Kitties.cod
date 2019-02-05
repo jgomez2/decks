@@ -68,7 +68,6 @@
         <card number="1" name="Selesnya Locket"/>
         <card number="1" name="Darksteel Plate"/>
         <card number="1" name="Trailblazer's Boots"/>
-        <card number="1" name="Shuko"/>
         <card number="1" name="Leonin Elder"/>
         <card number="1" name="Rune-Tail, Kitsune Ascendant"/>
         <card number="1" name="Danitha Capashen, Paragon"/>
@@ -83,6 +82,7 @@
         <card number="1" name="Day of Judgment"/>
         <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Ajani Unyielding"/>
+        <card number="1" name="Watchers of the Dead"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mirari's Wake"/>
@@ -112,5 +112,6 @@
         <card number="1" name="Tranquil Thicket"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Harmonize"/>
+        <card number="1" name="Shuko"/>
     </zone>
 </cockatrice_deck>
