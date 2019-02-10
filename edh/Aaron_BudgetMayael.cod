@@ -7,21 +7,17 @@
         <card number="1" name="Artisan of Kozilek"/>
         <card number="1" name="Avacyn's Pilgrim"/>
         <card number="1" name="Blazing Archon"/>
-        <card number="1" name="Blossoming Sands"/>
         <card number="1" name="Bogardan Hellkite"/>
         <card number="1" name="Boros Garrison"/>
-        <card number="1" name="Cataclysm"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Cultivate"/>
         <card number="1" name="Darksteel Colossus"/>
         <card number="1" name="Dragonlord Atarka"/>
         <card number="1" name="Druid of the Anima"/>
         <card number="1" name="Elvish Mystic"/>
-        <card number="1" name="Elvish Visionary"/>
         <card number="1" name="Emrakul, the Promised End"/>
-        <card number="1" name="Far Wanderings"/>
         <card number="1" name="Farseek"/>
-        <card number="9" name="Forest"/>
+        <card number="7" name="Forest"/>
         <card number="1" name="Gisela, Blade of Goldnight"/>
         <card number="1" name="Godsire"/>
         <card number="1" name="Harrow"/>
@@ -38,36 +34,28 @@
         <card number="1" name="Mayael the Anima"/>
         <card number="1" name="Meteor Crater"/>
         <card number="1" name="Mirari's Wake"/>
-        <card number="4" name="Mountain"/>
+        <card number="3" name="Mountain"/>
         <card number="1" name="Naya Panorama"/>
         <card number="1" name="Obelisk of Naya"/>
         <card number="1" name="Oblivion Ring"/>
         <card number="1" name="Pathrazer of Ulamog"/>
-        <card number="7" name="Plains"/>
+        <card number="6" name="Plains"/>
         <card number="1" name="Quirion Elves"/>
         <card number="1" name="Rith's Grove"/>
         <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Sakura-Tribe Scout"/>
         <card number="1" name="Siege Behemoth"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Spearbreaker Behemoth"/>
         <card number="1" name="Stonehoof Chieftain"/>
-        <card number="1" name="Sunhome, Fortress of the Legion"/>
         <card number="1" name="Swiftfoot Boots"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Temple of the False God"/>
         <card number="1" name="Tyrant of Discord"/>
         <card number="1" name="Ulamog's Crusher"/>
-        <card number="1" name="Viridian Emissary"/>
         <card number="1" name="Void Winnower"/>
-        <card number="1" name="Skyline Despot"/>
         <card number="1" name="Regal Behemoth"/>
-        <card number="1" name="Farhaven Elf"/>
         <card number="1" name="Fyndhorn Elves"/>
-        <card number="1" name="Vivid Grove"/>
         <card number="1" name="Elvish Piper"/>
-        <card number="1" name="Quirion Explorer"/>
-        <card number="1" name="Vizier of the Menagerie"/>
         <card number="1" name="Fervor"/>
         <card number="1" name="Fires of Yavimaya"/>
         <card number="1" name="Sylvan Library"/>
@@ -76,20 +64,55 @@
         <card number="1" name="Long Road Home"/>
         <card number="1" name="Clifftop Retreat"/>
         <card number="1" name="Rootbound Crag"/>
-        <card number="1" name="Rugged Highlands"/>
         <card number="1" name="Scattered Groves"/>
         <card number="1" name="Sunpetal Grove"/>
-        <card number="1" name="Wind-Scarred Crag"/>
-        <card number="1" name="Crown of Convergence"/>
-        <card number="1" name="Seasons Past"/>
         <card number="1" name="Cream of the Crop"/>
         <card number="1" name="Austere Command"/>
         <card number="1" name="Vorinclex, Voice of Hunger"/>
         <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Canopy Vista"/>
+        <card number="1" name="Cascading Cataracts"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Snow-Covered Forest"/>
+        <card number="1" name="Snow-Covered Plains"/>
+        <card number="1" name="Selesnya Guildgate"/>
+        <card number="1" name="Selesnya Locket"/>
+        <card number="1" name="Archon of Valor's Reach"/>
+        <card number="1" name="Gruul Ragebeast"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Serenity"/>
+        <card number="1" name="Join Shields"/>
+        <card number="1" name="Armageddon"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Cleansing Meditation"/>
+        <card number="1" name="Divine Reckoning"/>
+        <card number="1" name="Darksteel Citadel"/>
+        <card number="1" name="Gruul Guildgate"/>
+        <card number="1" name="Stomping Ground"/>
     </zone>
     <zone name="side">
         <card number="1" name="Iroas, God of Victory"/>
         <card number="1" name="Burgeoning"/>
         <card number="1" name="Oak Street Innkeeper"/>
+        <card number="1" name="Blossoming Sands"/>
+        <card number="2" name="Forest"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Rugged Highlands"/>
+        <card number="1" name="Wind-Scarred Crag"/>
+        <card number="1" name="Crown of Convergence"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Farhaven Elf"/>
+        <card number="1" name="Quirion Explorer"/>
+        <card number="1" name="Sakura-Tribe Scout"/>
+        <card number="1" name="Skyline Despot"/>
+        <card number="1" name="Viridian Emissary"/>
+        <card number="1" name="Vizier of the Menagerie"/>
+        <card number="1" name="Cataclysm"/>
+        <card number="1" name="Far Wanderings"/>
+        <card number="1" name="Seasons Past"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Sunhome, Fortress of the Legion"/>
+        <card number="1" name="Vivid Grove"/>
     </zone>
 </cockatrice_deck>
