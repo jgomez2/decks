@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Okaun, Eye of Chaos"/>
+        <card number="1" name="Chance Encounter"/>
+        <card number="1" name="Zndrsplt, Eye of Wisdom"/>
+        <card number="17" name="Mountain"/>
+        <card number="1" name="Madblind Mountain"/>
+        <card number="18" name="Island"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Command Beacon"/>
+        <card number="1" name="Karplusan Minotaur"/>
+        <card number="1" name="Trailblazer's Boots"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Lighthouse Chronologist"/>
+        <card number="1" name="Impulsive Maneuvers"/>
+        <card number="1" name="Thought Vessel"/>
+        <card number="1" name="Krark's Thumb"/>
+        <card number="1" name="Thing in the Ice"/>
+        <card number="1" name="Goblin Artisans"/>
+        <card number="1" name="Chaotic Goo"/>
+        <card number="1" name="Creepy Doll"/>
+        <card number="1" name="Crazed Firecat"/>
+        <card number="1" name="Crooked Scales"/>
+        <card number="1" name="Fiery Gambit"/>
+        <card number="1" name="Fighting Chance"/>
+        <card number="1" name="Frenetic Efreet"/>
+        <card number="1" name="Game of Chaos"/>
+        <card number="1" name="Goblin Archaeologist"/>
+        <card number="1" name="Goblin Bomb"/>
+        <card number="1" name="Goblin Psychopath"/>
+        <card number="1" name="Mijae Djinn"/>
+        <card number="1" name="Mirror March"/>
+        <card number="1" name="Mogg Assassin"/>
+        <card number="1" name="Molten Birth"/>
+        <card number="1" name="Planar Chaos"/>
+        <card number="1" name="Puppet's Verdict"/>
+        <card number="1" name="Ral Zarek"/>
+        <card number="1" name="Risky Move"/>
+        <card number="1" name="Skyclaw Thrash"/>
+        <card number="1" name="Squee's Revenge"/>
+        <card number="1" name="Stitch in Time"/>
+        <card number="1" name="Tide of War"/>
+        <card number="1" name="Two-Headed Giant"/>
+        <card number="1" name="Wild Wurm"/>
+        <card number="1" name="Wirefly Hive"/>
+        <card number="1" name="Time Stop"/>
+        <card number="1" name="Glorious End"/>
+        <card number="1" name="Anvil of Bogardan"/>
+        <card number="1" name="Library of Leng"/>
+        <card number="1" name="Minamo Scrollkeeper"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Spellbook"/>
+        <card number="1" name="Tamiyo, the Moon Sage"/>
+        <card number="1" name="Tamiyo's Journal"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Venser's Journal"/>
+        <card number="1" name="Niv-Mizzet, Dracogenius"/>
+        <card number="1" name="Niv-Mizzet, Parun"/>
+        <card number="1" name="Niv-Mizzet, the Firemind"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Izzet Locket"/>
+        <card number="1" name="Izzet Guildmage"/>
+        <card number="1" name="Izzet Chronarch"/>
+        <card number="1" name="Izzet Chemister"/>
+        <card number="1" name="Blustersquall"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Mizzix's Mastery"/>
+        <card number="1" name="Vandalblast"/>
+        <card number="1" name="Teleportal"/>
+        <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Stuffy Doll"/>
+    </zone>
+</cockatrice_deck>
