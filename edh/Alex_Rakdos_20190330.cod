@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Ankh of Mishra"/>
+        <card number="1" name="Arcane Lighthouse"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Backlash"/>
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Blighted Fen"/>
+        <card number="1" name="Burnished Hart"/>
+        <card number="1" name="Charging Cinderhorn"/>
+        <card number="1" name="Citadel of Pain"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Commander's Sphere"/>
+        <card number="1" name="Damnable Pact"/>
+        <card number="1" name="Darksteel Plate"/>
+        <card number="1" name="Deathbringer Regent"/>
+        <card number="1" name="Decree of Pain"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Dictate of the Twin Gods"/>
+        <card number="1" name="Doom Blade"/>
+        <card number="1" name="Dread"/>
+        <card number="1" name="Everlasting Torment"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Exquisite Blood"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Fate Unraveler"/>
+        <card number="1" name="Fraying Omnipotence"/>
+        <card number="1" name="Furnace of Rath"/>
+        <card number="1" name="Grave Betrayal"/>
+        <card number="1" name="Grave Upheaval"/>
+        <card number="1" name="Grixis Panorama"/>
+        <card number="1" name="Havoc Festival"/>
+        <card number="1" name="Heartless Hidetsugu"/>
+        <card number="1" name="Helm of the Host"/>
+        <card number="1" name="Hour of Devastation"/>
+        <card number="1" name="Humble Defector"/>
+        <card number="1" name="Kaervek the Merciless"/>
+        <card number="1" name="Kazuul, Tyrant of the Cliffs"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Lightning Reaver"/>
+        <card number="1" name="Lyzolda, the Blood Witch"/>
+        <card number="1" name="Manabarbs"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mogis, God of Slaughter"/>
+        <card number="12" name="Mountain"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Neheb, the Eternal"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Painful Quandary"/>
+        <card number="1" name="Path of Ancestry"/>
+        <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Price of Glory"/>
+        <card number="1" name="Rakdos Charm"/>
+        <card number="1" name="Rakdos Signet"/>
+        <card number="1" name="Rakdos's Return"/>
+        <card number="1" name="Rakdos, Lord of Riots"/>
+        <card number="1" name="Renegade Tactics"/>
+        <card number="1" name="Repay in Kind"/>
+        <card number="1" name="Repercussion"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Seizan, Perverter of Truth"/>
+        <card number="1" name="Skeletal Scrying"/>
+        <card number="1" name="Slumbering Dragon"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Spiteful Visions"/>
+        <card number="1" name="Sulfuric Vortex"/>
+        <card number="11" name="Swamp"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thaumatic Compass"/>
+        <card number="1" name="The Scorpion God"/>
+        <card number="1" name="Tragic Slip"/>
+        <card number="1" name="Vial Smasher the Fierce"/>
+        <card number="1" name="Viashino Heretic"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Vivid Marsh"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Xantcha, Sleeper Agent"/>
+        <card number="1" name="Zo-Zu the Punisher"/>
+    </zone>
+</cockatrice_deck>
