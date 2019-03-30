@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Aether Barrier"/>
+        <card number="1" name="Augury Owl"/>
+        <card number="1" name="Azami, Lady of Scrolls"/>
+        <card number="1" name="Cackling Counterpart"/>
+        <card number="1" name="Caged Sun"/>
+        <card number="1" name="Clone"/>
+        <card number="1" name="Consecrated Sphinx"/>
+        <card number="1" name="Control Magic"/>
+        <card number="1" name="Copy Artifact"/>
+        <card number="1" name="Corrupted Conscience"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Cryptoplasm"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Deep Analysis"/>
+        <card number="1" name="Deprive"/>
+        <card number="1" name="Equilibrium"/>
+        <card number="1" name="Ertai, Wizard Adept"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Forbid"/>
+        <card number="1" name="Future Sight"/>
+        <card number="1" name="Graceful Adept"/>
+        <card number="1" name="Gush"/>
+        <card number="29" name="Island"/>
+        <card number="1" name="Jin-Gitaxias, Core Augur"/>
+        <card number="1" name="Legacy's Allure"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Magus of the Future"/>
+        <card number="1" name="Meekstone"/>
+        <card number="1" name="Mind Unbound"/>
+        <card number="1" name="Moonring Island"/>
+        <card number="1" name="Myojin of Seeing Winds"/>
+        <card number="1" name="Mystic Remora"/>
+        <card number="1" name="Opposition"/>
+        <card number="1" name="Patron Wizard"/>
+        <card number="1" name="Peek"/>
+        <card number="1" name="Persuasion"/>
+        <card number="1" name="Phantasmal Image"/>
+        <card number="1" name="Phyrexian Metamorph"/>
+        <card number="1" name="Ponder"/>
+        <card number="1" name="Preordain"/>
+        <card number="1" name="Propaganda"/>
+        <card number="1" name="Psychosis Crawler"/>
+        <card number="1" name="Quicksilver Fountain"/>
+        <card number="1" name="Rapid Hybridization"/>
+        <card number="1" name="Rayne, Academy Chancellor"/>
+        <card number="1" name="Reality Shift"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rewind"/>
+        <card number="1" name="Rhystic Study"/>
+        <card number="1" name="Roil Elemental"/>
+        <card number="1" name="Rootwater Thief"/>
+        <card number="1" name="Sakashima the Impostor"/>
+        <card number="1" name="Second Sight"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Somnophore"/>
+        <card number="1" name="Sower of Temptation"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Spellskite"/>
+        <card number="1" name="Sphinx of Uthuun"/>
+        <card number="1" name="Squelch"/>
+        <card number="1" name="Standstill"/>
+        <card number="1" name="Steel Sabotage"/>
+        <card number="1" name="Stifle"/>
+        <card number="1" name="Sturmgeist"/>
+        <card number="1" name="Surrakar Spellblade"/>
+        <card number="1" name="Syncopate"/>
+        <card number="1" name="Teferi's Puzzle Box"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Thada Adel, Acquisitor"/>
+        <card number="1" name="Trinket Mage"/>
+    </zone>
+</cockatrice_deck>
