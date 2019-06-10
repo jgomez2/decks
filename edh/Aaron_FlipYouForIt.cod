@@ -6,34 +6,25 @@
         <card number="1" name="Okaun, Eye of Chaos"/>
         <card number="1" name="Chance Encounter"/>
         <card number="1" name="Zndrsplt, Eye of Wisdom"/>
-        <card number="17" name="Mountain"/>
+        <card number="16" name="Mountain"/>
         <card number="1" name="Madblind Mountain"/>
-        <card number="17" name="Island"/>
+        <card number="14" name="Island"/>
         <card number="1" name="Karplusan Minotaur"/>
         <card number="1" name="Trailblazer's Boots"/>
         <card number="1" name="Lightning Greaves"/>
-        <card number="1" name="Lighthouse Chronologist"/>
         <card number="1" name="Impulsive Maneuvers"/>
         <card number="1" name="Thought Vessel"/>
         <card number="1" name="Krark's Thumb"/>
-        <card number="1" name="Goblin Artisans"/>
         <card number="1" name="Chaotic Goo"/>
         <card number="1" name="Creepy Doll"/>
-        <card number="1" name="Crooked Scales"/>
         <card number="1" name="Fiery Gambit"/>
         <card number="1" name="Fighting Chance"/>
         <card number="1" name="Frenetic Efreet"/>
         <card number="1" name="Game of Chaos"/>
         <card number="1" name="Goblin Archaeologist"/>
-        <card number="1" name="Goblin Bomb"/>
-        <card number="1" name="Goblin Psychopath"/>
-        <card number="1" name="Mijae Djinn"/>
-        <card number="1" name="Mirror March"/>
-        <card number="1" name="Mogg Assassin"/>
         <card number="1" name="Planar Chaos"/>
         <card number="1" name="Puppet's Verdict"/>
         <card number="1" name="Ral Zarek"/>
-        <card number="1" name="Risky Move"/>
         <card number="1" name="Squee's Revenge"/>
         <card number="1" name="Stitch in Time"/>
         <card number="1" name="Tide of War"/>
@@ -41,12 +32,7 @@
         <card number="1" name="Time Stop"/>
         <card number="1" name="Glorious End"/>
         <card number="1" name="Library of Leng"/>
-        <card number="1" name="Minamo Scrollkeeper"/>
-        <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Spellbook"/>
-        <card number="1" name="Tamiyo's Journal"/>
-        <card number="1" name="Venser's Journal"/>
-        <card number="1" name="Niv-Mizzet, Dracogenius"/>
         <card number="1" name="Niv-Mizzet, Parun"/>
         <card number="1" name="Niv-Mizzet, the Firemind"/>
         <card number="1" name="Izzet Signet"/>
@@ -56,21 +42,39 @@
         <card number="1" name="Nevinyrral's Disk"/>
         <card number="1" name="Vandalblast"/>
         <card number="1" name="Whispersilk Cloak"/>
-        <card number="1" name="Stuffy Doll"/>
         <card number="1" name="Fog Bank"/>
         <card number="1" name="Darksteel Ingot"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Final Fortune"/>
-        <card number="1" name="Magistrate's Scepter"/>
         <card number="1" name="Savor the Moment"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Timestream Navigator"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Beacon of Tomorrows"/>
         <card number="1" name="Devastation Tide"/>
-        <card number="1" name="Walk the Aeons"/>
         <card number="1" name="Mu Yanling"/>
+        <card number="1" name="The Locust God"/>
+        <card number="1" name="Nephalia Academy"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Back to Basics"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="1" name="Seize the Day"/>
+        <card number="1" name="Counterspell"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Mogg Assassin"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Cephalid Looter"/>
+        <card number="1" name="Fervor"/>
+        <card number="1" name="War's Toll"/>
+        <card number="1" name="Web of Inertia"/>
+        <card number="1" name="Peek"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Molten Birth"/>
+        <card number="1" name="Ponder"/>
     </zone>
     <zone name="side">
         <card number="1" name="Propaganda"/>
@@ -88,7 +92,6 @@
         <card number="1" name="Temporal Mastery"/>
         <card number="1" name="Walk the Aeons"/>
         <card number="1" name="Tamiyo, the Moon Sage"/>
-        <card number="1" name="Molten Birth"/>
         <card number="1" name="Teleportal"/>
         <card number="1" name="Warrior's Oath"/>
         <card number="1" name="Howling Mine"/>
@@ -105,9 +108,30 @@
         <card number="1" name="Wild Wurm"/>
         <card number="1" name="Leyline of Anticipation"/>
         <card number="1" name="Cyclonic Rift"/>
-        <card number="1" name="Island"/>
+        <card number="4" name="Island"/>
         <card number="1" name="Mizzix's Mastery"/>
         <card number="1" name="Time Warp"/>
         <card number="1" name="Command Tower"/>
+        <card number="1" name="Tamiyo's Journal"/>
+        <card number="1" name="Mijae Djinn"/>
+        <card number="1" name="Crooked Scales"/>
+        <card number="1" name="Goblin Artisans"/>
+        <card number="1" name="Goblin Psychopath"/>
+        <card number="1" name="Minamo Scrollkeeper"/>
+        <card number="1" name="Magistrate's Scepter"/>
+        <card number="1" name="Mountain"/>
+        <card number="1" name="Lighthouse Chronologist"/>
+        <card number="1" name="Niv-Mizzet, Dracogenius"/>
+        <card number="1" name="Opt"/>
+        <card number="1" name="Feldon's Cane"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="Venser's Journal"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Cephalid Broker"/>
+        <card number="1" name="Goblin Bomb"/>
+        <card number="1" name="Mirror March"/>
+        <card number="1" name="Risky Move"/>
+        <card number="1" name="Nezahal, Primal Tide"/>
+        <card number="1" name="Stuffy Doll"/>
     </zone>
 </cockatrice_deck>
