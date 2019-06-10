@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abyssal Gatekeeper"/>
+        <card number="1" name="Athreos, God of Passage"/>
+        <card number="1" name="Black Market"/>
+        <card number="1" name="Blade of the Bloodchief"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Carrier Thrall"/>
+        <card number="1" name="Cathodion"/>
+        <card number="1" name="Caves of Koilos"/>
+        <card number="1" name="Champion of Stray Souls"/>
+        <card number="1" name="Cruel Celebrant"/>
+        <card number="1" name="Dark Privilege"/>
+        <card number="1" name="Darksteel Ingot"/>
+        <card number="1" name="Dauntless Bodyguard"/>
+        <card number="1" name="Deathgreeter"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Divine Visitation"/>
+        <card number="1" name="Doomed Dissenter"/>
+        <card number="1" name="Doomed Traveler"/>
+        <card number="1" name="Dutiful Attendant"/>
+        <card number="1" name="Elenda, the Dusk Rose"/>
+        <card number="1" name="Entreat the Angels"/>
+        <card number="1" name="Entreat the Dead"/>
+        <card number="1" name="Falkenrath Noble"/>
+        <card number="1" name="Fanatical Devotion"/>
+        <card number="1" name="Field of Souls"/>
+        <card number="1" name="Flesh Carver"/>
+        <card number="1" name="Forsaken Sanctuary"/>
+        <card number="1" name="Hidden Stockpile"/>
+        <card number="1" name="Hunted Witness"/>
+        <card number="1" name="Jar of Eyeballs"/>
+        <card number="1" name="Kaya's Ghostform"/>
+        <card number="1" name="Martial Coup"/>
+        <card number="1" name="Massacre Girl"/>
+        <card number="1" name="Matter Reshaper"/>
+        <card number="1" name="Memorial to Folly"/>
+        <card number="1" name="Ministrant of Obligation"/>
+        <card number="1" name="Mortuary Mire"/>
+        <card number="1" name="Mother of Runes"/>
+        <card number="1" name="Murder Investigation"/>
+        <card number="1" name="Ob Nixilis, Unshackled"/>
+        <card number="1" name="Oketra's Monument"/>
+        <card number="1" name="Open the Graves"/>
+        <card number="1" name="Orzhov Basilica"/>
+        <card number="1" name="Orzhov Cluestone"/>
+        <card number="1" name="Orzhov Enforcer"/>
+        <card number="1" name="Orzhov Guildgate"/>
+        <card number="1" name="Orzhov Locket"/>
+        <card number="1" name="Orzhov Signet"/>
+        <card number="1" name="Pawn of Ulamog"/>
+        <card number="1" name="Pious Evangel"/>
+        <card number="1" name="Pitiless Plunderer"/>
+        <card number="11" name="Plains"/>
+        <card number="1" name="Rally the Ancestors"/>
+        <card number="1" name="Reliquary Monk"/>
+        <card number="1" name="Resolute Watchdog"/>
+        <card number="1" name="Revel in Riches"/>
+        <card number="1" name="Scoured Barrens"/>
+        <card number="1" name="Sifter of Skulls"/>
+        <card number="1" name="Smothering Tithe"/>
+        <card number="1" name="Spirit Bonds"/>
+        <card number="15" name="Swamp"/>
+        <card number="1" name="Tainted Field"/>
+        <card number="1" name="Teysa Karlov"/>
+        <card number="1" name="Teysa, Orzhov Scion"/>
+        <card number="1" name="Thrilling Encore"/>
+        <card number="1" name="Tithe Taker"/>
+        <card number="1" name="Treasure Keeper"/>
+        <card number="1" name="Treasure Map"/>
+        <card number="1" name="Unruly Mob"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Vivid Marsh"/>
+        <card number="1" name="Vivid Meadow"/>
+        <card number="1" name="Wayfarer's Bauble"/>
+        <card number="1" name="Whisper, Blood Liturgist"/>
+        <card number="1" name="Xathrid Necromancer"/>
+        <card number="1" name="Zulaport Cutthroat"/>
+    </zone>
+</cockatrice_deck>

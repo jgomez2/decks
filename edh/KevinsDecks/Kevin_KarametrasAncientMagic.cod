@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abundance"/>
+        <card number="1" name="Admonition Angel"/>
+        <card number="1" name="Aegis of the Gods"/>
+        <card number="1" name="Ajani's Chosen"/>
+        <card number="1" name="Archetype of Endurance"/>
+        <card number="1" name="Auramancer"/>
+        <card number="1" name="Avacyn's Pilgrim"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Baloth Woodcrasher"/>
+        <card number="1" name="Blind Obedience"/>
+        <card number="1" name="Bow of Nylea"/>
+        <card number="1" name="Cathars' Crusade"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Cream of the Crop"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Eidolon of Blossoms"/>
+        <card number="1" name="Eidolon of Countless Battles"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Emeria Angel"/>
+        <card number="1" name="Emeria Shepherd"/>
+        <card number="1" name="Enchantress's Presence"/>
+        <card number="1" name="Epic Struggle"/>
+        <card number="1" name="Femeref Enchantress"/>
+        <card number="19" name="Forest"/>
+        <card number="1" name="Gift of Immortality"/>
+        <card number="1" name="Growing Rites of Itlimoc"/>
+        <card number="1" name="Harvestguard Alseids"/>
+        <card number="1" name="Heliod, God of the Sun"/>
+        <card number="1" name="Herald of the Pantheon"/>
+        <card number="1" name="Hopeful Eidolon"/>
+        <card number="1" name="Humbler of Mortals"/>
+        <card number="1" name="Journey to Nowhere"/>
+        <card number="1" name="Karametra's Favor"/>
+        <card number="1" name="Karametra, God of Harvests"/>
+        <card number="1" name="Karmic Justice"/>
+        <card number="1" name="Khalni Heart Expedition"/>
+        <card number="1" name="Leafcrown Dryad"/>
+        <card number="1" name="Luminarch Ascension"/>
+        <card number="1" name="Mesa Enchantress"/>
+        <card number="1" name="Nylea's Colossus"/>
+        <card number="1" name="Nyx-Fleece Ram"/>
+        <card number="1" name="Nyxborn Shieldmate"/>
+        <card number="1" name="Oakheart Dryads"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Observant Alseid"/>
+        <card number="1" name="Oran-Rief Hydra"/>
+        <card number="1" name="Overwhelming Splendor"/>
+        <card number="1" name="Paradise Druid"/>
+        <card number="1" name="Pariah"/>
+        <card number="1" name="Path of Discovery"/>
+        <card number="17" name="Plains"/>
+        <card number="1" name="Planar Collapse"/>
+        <card number="1" name="Primal Order"/>
+        <card number="1" name="Primeval Bounty"/>
+        <card number="1" name="Prison Realm"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Retreat to Emeria"/>
+        <card number="1" name="Shapers' Sanctuary"/>
+        <card number="1" name="Sigarda, Host of Herons"/>
+        <card number="1" name="Sigil of the Empty Throne"/>
+        <card number="1" name="Sphere of Safety"/>
+        <card number="1" name="Spirespine"/>
+        <card number="1" name="Spirit Bonds"/>
+        <card number="1" name="Starfield of Nyx"/>
+        <card number="1" name="Verduran Enchantress"/>
+        <card number="1" name="Yavimaya Enchantress"/>
+    </zone>
+</cockatrice_deck>
