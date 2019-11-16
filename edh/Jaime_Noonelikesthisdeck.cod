@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Akroma's Memorial"/>
+        <card number="1" name="Ancient Ziggurat"/>
+        <card number="1" name="Arbor Elf"/>
+        <card number="1" name="Arcane Lighthouse"/>
+        <card number="1" name="Asceticism"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Captain Sisay"/>
+        <card number="1" name="Cataclysm"/>
+        <card number="1" name="Chord of Calling"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Dauntless Escort"/>
+        <card number="1" name="Dosan the Falling Leaf"/>
+        <card number="1" name="Dragonlord Dromoka"/>
+        <card number="1" name="Dryad Arbor"/>
+        <card number="1" name="Eiganjo Castle"/>
+        <card number="1" name="Elesh Norn, Grand Cenobite"/>
+        <card number="1" name="Elvish Archdruid"/>
+        <card number="1" name="Elvish Harbinger"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Elvish Visionary"/>
+        <card number="1" name="Ezuri, Renegade Leader"/>
+        <card number="8" name="Forest"/>
+        <card number="1" name="Fortified Village"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Gaddock Teeg"/>
+        <card number="1" name="Gaea's Herald"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Grand Abolisher"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Harrow"/>
+        <card number="1" name="Heartwood Storyteller"/>
+        <card number="1" name="Helm of Kaldra"/>
+        <card number="1" name="Heroes' Podium"/>
+        <card number="1" name="Homeward Path"/>
+        <card number="1" name="Iona, Shield of Emeria"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Kamahl, Fist of Krosa"/>
+        <card number="1" name="Karametra, God of Harvests"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Kataki, War's Wage"/>
+        <card number="1" name="Keeper of Progenitus"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Lignify"/>
+        <card number="1" name="Linvala, Keeper of Silence"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Loyal Retainers"/>
+        <card number="1" name="Mangara of Corondor"/>
+        <card number="1" name="Mirari's Wake"/>
+        <card number="1" name="Mul Daya Channelers"/>
+        <card number="1" name="Natural Order"/>
+        <card number="1" name="Okina, Temple to the Grandfathers"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Path to Exile"/>
+        <card number="8" name="Plains"/>
+        <card number="1" name="Priest of Titania"/>
+        <card number="1" name="Privileged Position"/>
+        <card number="1" name="Quirion Elves"/>
+        <card number="1" name="Quirion Ranger"/>
+        <card number="1" name="Razorverge Thicket"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rhys the Redeemed"/>
+        <card number="1" name="Saffi Eriksdotter"/>
+        <card number="1" name="Seeker of Skybreak"/>
+        <card number="1" name="Selesnya Sanctuary"/>
+        <card number="1" name="Shield of Kaldra"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Somberwald Sage"/>
+        <card number="1" name="Sungrass Prairie"/>
+        <card number="1" name="Sunpetal Grove"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Sword of Kaldra"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Temple of Plenty"/>
+        <card number="1" name="Temple of the False God"/>
+        <card number="1" name="Thalia, Guardian of Thraben"/>
+        <card number="1" name="Thespian's Stage"/>
+        <card number="1" name="Thousand-Year Elixir"/>
+        <card number="1" name="Ulamog, the Infinite Gyre"/>
+        <card number="1" name="Vorinclex, Voice of Hunger"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Wooded Bastion"/>
+        <card number="1" name="Worldly Tutor"/>
+        <card number="1" name="Wrath of God"/>
+    </zone>
+</cockatrice_deck>
