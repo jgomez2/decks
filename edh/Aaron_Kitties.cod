@@ -4,7 +4,6 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Arahbo, Roar of the World"/>
-        <card number="1" name="Argentum Armor"/>
         <card number="1" name="Balan, Wandering Knight"/>
         <card number="1" name="Behemoth Sledge"/>
         <card number="1" name="Command Tower"/>
@@ -15,7 +14,6 @@
         <card number="1" name="Grappling Hook"/>
         <card number="1" name="Hammer of Nazahn"/>
         <card number="1" name="Heirloom Blade"/>
-        <card number="1" name="Herald's Horn"/>
         <card number="1" name="Jareth, Leonine Titan"/>
         <card number="1" name="Kemba, Kha Regent"/>
         <card number="1" name="Krosan Verge"/>
@@ -64,7 +62,6 @@
         <card number="1" name="Wrath of God"/>
         <card number="1" name="Back to Nature"/>
         <card number="1" name="Leave No Trace"/>
-        <card number="1" name="Hedron Archive"/>
         <card number="1" name="Selesnya Locket"/>
         <card number="1" name="Darksteel Plate"/>
         <card number="1" name="Trailblazer's Boots"/>
@@ -83,6 +80,8 @@
         <card number="1" name="Slaughter the Strong"/>
         <card number="1" name="Ajani Unyielding"/>
         <card number="1" name="Watchers of the Dead"/>
+        <card number="1" name="Sword of Truth and Justice"/>
+        <card number="1" name="Sword of Sinew and Steel"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mirari's Wake"/>
@@ -113,5 +112,8 @@
         <card number="1" name="Cultivate"/>
         <card number="1" name="Harmonize"/>
         <card number="1" name="Shuko"/>
+        <card number="1" name="Herald's Horn"/>
+        <card number="1" name="Argentum Armor"/>
+        <card number="1" name="Hedron Archive"/>
     </zone>
 </cockatrice_deck>

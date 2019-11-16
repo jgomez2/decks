@@ -28,7 +28,6 @@
         <card number="1" name="Squee's Revenge"/>
         <card number="1" name="Stitch in Time"/>
         <card number="1" name="Tide of War"/>
-        <card number="1" name="Wirefly Hive"/>
         <card number="1" name="Time Stop"/>
         <card number="1" name="Glorious End"/>
         <card number="1" name="Library of Leng"/>
@@ -75,6 +74,10 @@
         <card number="1" name="Negate"/>
         <card number="1" name="Molten Birth"/>
         <card number="1" name="Ponder"/>
+        <card number="1" name="Fists of Flame"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Fling"/>
+        <card number="1" name="Talisman of Creativity"/>
     </zone>
     <zone name="side">
         <card number="1" name="Propaganda"/>
@@ -88,7 +91,6 @@
         <card number="1" name="Blood Moon"/>
         <card number="1" name="Command Beacon"/>
         <card number="1" name="Beacon of Tomorrows"/>
-        <card number="1" name="Mu Yanling"/>
         <card number="1" name="Temporal Mastery"/>
         <card number="1" name="Walk the Aeons"/>
         <card number="1" name="Tamiyo, the Moon Sage"/>
@@ -133,5 +135,6 @@
         <card number="1" name="Risky Move"/>
         <card number="1" name="Nezahal, Primal Tide"/>
         <card number="1" name="Stuffy Doll"/>
+        <card number="1" name="Wirefly Hive"/>
     </zone>
 </cockatrice_deck>
