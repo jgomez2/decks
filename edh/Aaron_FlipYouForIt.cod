@@ -6,9 +6,9 @@
         <card number="1" name="Okaun, Eye of Chaos"/>
         <card number="1" name="Chance Encounter"/>
         <card number="1" name="Zndrsplt, Eye of Wisdom"/>
-        <card number="16" name="Mountain"/>
+        <card number="15" name="Mountain"/>
         <card number="1" name="Madblind Mountain"/>
-        <card number="14" name="Island"/>
+        <card number="13" name="Island"/>
         <card number="1" name="Karplusan Minotaur"/>
         <card number="1" name="Trailblazer's Boots"/>
         <card number="1" name="Lightning Greaves"/>
@@ -27,8 +27,6 @@
         <card number="1" name="Ral Zarek"/>
         <card number="1" name="Squee's Revenge"/>
         <card number="1" name="Stitch in Time"/>
-        <card number="1" name="Tide of War"/>
-        <card number="1" name="Time Stop"/>
         <card number="1" name="Glorious End"/>
         <card number="1" name="Library of Leng"/>
         <card number="1" name="Spellbook"/>
@@ -36,7 +34,6 @@
         <card number="1" name="Niv-Mizzet, the Firemind"/>
         <card number="1" name="Izzet Signet"/>
         <card number="1" name="Izzet Locket"/>
-        <card number="1" name="Izzet Chemister"/>
         <card number="1" name="Blustersquall"/>
         <card number="1" name="Nevinyrral's Disk"/>
         <card number="1" name="Vandalblast"/>
@@ -45,13 +42,11 @@
         <card number="1" name="Darksteel Ingot"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Final Fortune"/>
-        <card number="1" name="Savor the Moment"/>
         <card number="1" name="Reliquary Tower"/>
         <card number="1" name="Timestream Navigator"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Beacon of Tomorrows"/>
         <card number="1" name="Devastation Tide"/>
-        <card number="1" name="Mu Yanling"/>
         <card number="1" name="The Locust God"/>
         <card number="1" name="Nephalia Academy"/>
         <card number="1" name="Steam Vents"/>
@@ -78,6 +73,10 @@
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Fling"/>
         <card number="1" name="Talisman of Creativity"/>
+        <card number="1" name="Leyline of Anticipation"/>
+        <card number="1" name="Choking Tethers"/>
+        <card number="1" name="Snow-Covered Island"/>
+        <card number="1" name="Snow-Covered Mountain"/>
     </zone>
     <zone name="side">
         <card number="1" name="Propaganda"/>

@@ -40,7 +40,6 @@
         <card number="1" name="Faith of the Devoted"/>
         <card number="1" name="Zombie Infestation"/>
         <card number="1" name="Drownyard Temple"/>
-        <card number="1" name="Exotic Orchard"/>
         <card number="9" name="Swamp"/>
         <card number="8" name="Mountain"/>
         <card number="1" name="Akoum Refuge"/>
@@ -88,6 +87,7 @@
         <card number="1" name="Ruthless Sniper"/>
         <card number="1" name="Twins of Maurer Estate"/>
         <card number="1" name="Weirded Vampire"/>
+        <card number="1" name="Corrupted Grafstone"/>
     </zone>
     <zone name="side">
         <card number="1" name="Aeon Engine"/>
