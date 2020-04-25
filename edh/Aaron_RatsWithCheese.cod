@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Rats with Cheese</deckname>
+    <comments>Commander: Jarad
+
+Builder: Tethoril the Coward
+
+$100 EDH Challenge,
+Prices Verified 25.4.2020, mtggoldfish</comments>
+    <zone name="main">
+        <card number="1" name="Ambition's Cost"/>
+        <card number="1" name="Armillary Sphere"/>
+        <card number="1" name="Bontu's Monument"/>
+        <card number="1" name="Caravan Vigil"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Crypt Rats"/>
+        <card number="1" name="Defile"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="7" name="Forest"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="1" name="Jarad, Golgari Lich Lord"/>
+        <card number="1" name="Languish"/>
+        <card number="1" name="Mutilate"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Nezumi Graverobber"/>
+        <card number="1" name="Ogre Slumlord"/>
+        <card number="1" name="Open the Gates"/>
+        <card number="1" name="Overrun"/>
+        <card number="1" name="Pestilence"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Ratcatcher"/>
+        <card number="30" name="Relentless Rats"/>
+        <card number="1" name="Renegade Map"/>
+        <card number="1" name="Rhonas's Monument"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Skeletal Scrying"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Soul Foundry"/>
+        <card number="1" name="Spark Harvest"/>
+        <card number="24" name="Swamp"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Traveler's Amulet"/>
+        <card number="1" name="Twinning Glass"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Victim of Night"/>
+    </zone>
+</cockatrice_deck>

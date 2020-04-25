@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Fuck da Polis</deckname>
+    <comments>Commander: Ephara
+
+Builder: Goosemonk
+
+https://www.mtggoldfish.com/deck/2133720#paper
+
+$25 PDH decklist from
+
+https://docs.google.com/spreadsheets/d/1vmas7k1iGK3MAJWhhS4Ohv44_RyP2v6ujtBi9ZL5YhE/edit#gid=0
+</comments>
+    <zone name="main">
+        <card number="1" name="Ephara, God of the Polis"/>
+        <card number="19" name="Island"/>
+        <card number="1" name="Augury Owl"/>
+        <card number="1" name="Banishing Light"/>
+        <card number="1" name="Prismatic Lens"/>
+        <card number="1" name="Ephemerate"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="Aether Gale"/>
+        <card number="15" name="Plains"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Illusionist's Stratagem"/>
+        <card number="1" name="Kasmina, Enigmatic Mentor"/>
+        <card number="1" name="Watcher for Tomorrow"/>
+        <card number="1" name="Tranquil Cove"/>
+        <card number="1" name="Supreme Will"/>
+        <card number="1" name="Aetherize"/>
+        <card number="1" name="Impulse"/>
+        <card number="1" name="Momentary Blink"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Cloudshift"/>
+        <card number="1" name="Planar Outburst"/>
+        <card number="1" name="Murmuring Mystic"/>
+        <card number="1" name="Treasure Cruise"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Dispel"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Mana Leak"/>
+        <card number="1" name="Stonecloaker"/>
+        <card number="1" name="Thopter Spy Network"/>
+        <card number="1" name="Blue Elemental Blast"/>
+        <card number="1" name="Cloudblazer"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Fact or Fiction"/>
+        <card number="1" name="Devious Cover-Up"/>
+        <card number="1" name="Familiar's Ruse"/>
+        <card number="1" name="Displace"/>
+        <card number="1" name="Soulherder"/>
+        <card number="1" name="Azorius Locket"/>
+        <card number="1" name="Negate"/>
+        <card number="1" name="Saltskitter"/>
+        <card number="1" name="Sphere of the Suns"/>
+        <card number="1" name="Guardian Idol"/>
+        <card number="1" name="Dissolve"/>
+        <card number="1" name="Blink of an Eye"/>
+        <card number="1" name="Vedalken Aethermage"/>
+        <card number="1" name="Vessel of Endless Rest"/>
+        <card number="1" name="Archaeomancer"/>
+        <card number="1" name="Fractured Powerstone"/>
+        <card number="1" name="Dovin's Veto"/>
+        <card number="1" name="Artificer's Epiphany"/>
+        <card number="1" name="Anticipate"/>
+        <card number="1" name="Time Wipe"/>
+        <card number="1" name="Azorius Cluestone"/>
+        <card number="1" name="Essence Flux"/>
+        <card number="1" name="Teferi's Time Twist"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Aetherling"/>
+        <card number="1" name="Kasmina's Transmutation"/>
+        <card number="1" name="Legacy's Allure"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Unwind"/>
+        <card number="1" name="Mistmeadow Witch"/>
+        <card number="1" name="Celestial Purge"/>
+        <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Naru Meha, Master Wizard"/>
+        <card number="1" name="Sacred Mesa"/>
+        <card number="1" name="Turn to Mist"/>
+    </zone>
+</cockatrice_deck>

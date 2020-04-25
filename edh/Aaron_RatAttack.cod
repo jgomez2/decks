@@ -5,7 +5,7 @@
     <zone name="main">
         <card number="39" name="Relentless Rats"/>
         <card number="1" name="Living Death"/>
-        <card number="34" name="Swamp"/>
+        <card number="35" name="Swamp"/>
         <card number="1" name="Cabal Coffers"/>
         <card number="1" name="Ink-Eyes, Servant of Oni"/>
         <card number="1" name="Liliana of the Dark Realms"/>
@@ -23,15 +23,14 @@
         <card number="1" name="Patriarch's Bidding"/>
         <card number="1" name="Coat of Arms"/>
         <card number="1" name="Plague Wind"/>
-        <card number="1" name="Sheoldred, Whispering One"/>
         <card number="1" name="Nevinyrral's Disk"/>
-        <card number="1" name="Konda's Banner"/>
-        <card number="1" name="Urborg, Tomb of Yawgmoth"/>
         <card number="1" name="Thrumming Stone"/>
         <card number="1" name="Door of Destinies"/>
         <card number="1" name="Sol Ring"/>
         <card number="1" name="Vanquisher's Banner"/>
         <card number="1" name="Phyrexian Arena"/>
+        <card number="1" name="Bontu's Monument"/>
+        <card number="1" name="Jet Medallion"/>
     </zone>
     <zone name="side">
         <card number="1" name="Chainer's Edict"/>
