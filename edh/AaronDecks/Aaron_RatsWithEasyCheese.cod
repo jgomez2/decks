@@ -1,51 +1,66 @@
-1 Bloodbond March
-1 Bontu's Monument
-1 Caravan Vigil
-1 Coat of Arms
-1 Damping Matrix
-1 Deathreap Ritual
-1 Defile
-1 Door of Destinies
-1 Driven // Despair
-1 Elemental Bond
-1 Elves of Deep Shadow
-1 Evolving Wilds
-1 Farseek
-7 Forest
-1 Golgari Guildgate
-1 Golgari Rot Farm
-1 Golgari Signet
-1 Infiltration Lens
-1 Languish
-1 Mutilate
-1 Ob Nixilis Reignited
-1 Ogre Slumlord
-1 Pestilence
-1 Phyrexian Revoker
-1 Pithing Needle
-1 Price of Fame
-1 Rancor
-1 Ratcatcher
-22 Relentless Rats
-1 Renegade Map
-1 Rhonas's Monument
-1 Ruinous Path
-1 Sakura-Tribe Elder
-1 Sign in Blood
-1 Skeletal Scrying
-1 Sol Ring
-1 Sorcerous Spyglass
-1 Soul Foundry
-1 Spark Harvest
-26 Swamp
-1 Talisman of Resilience
-1 Terramorphic Expanse
-1 Twinning Glass
-1 Vanquisher's Banner
-1 Victim of Night
-1 Viper's Kiss
-1 Vizier of the Menagerie
-1 Jarad, Golgari Lich Lord
-SB: 1 Damia, Sage of Stone
-SB: 1 Simic Guildgate
-SB: 1 Island
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Rats with Easy Cheese</deckname>
+    <comments>Commander: Damia
+
+$100 EDH
+
+Bgu Relentless Rats with Activation hate</comments>
+    <zone name="main">
+        <card number="1" name="Bloodbond March"/>
+        <card number="1" name="Bontu's Monument"/>
+        <card number="1" name="Caravan Vigil"/>
+        <card number="1" name="Coat of Arms"/>
+        <card number="1" name="Damping Matrix"/>
+        <card number="1" name="Deathreap Ritual"/>
+        <card number="1" name="Defile"/>
+        <card number="1" name="Door of Destinies"/>
+        <card number="1" name="Driven // Despair"/>
+        <card number="1" name="Elemental Bond"/>
+        <card number="1" name="Elves of Deep Shadow"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Farseek"/>
+        <card number="6" name="Forest"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Infiltration Lens"/>
+        <card number="1" name="Languish"/>
+        <card number="1" name="Mutilate"/>
+        <card number="1" name="Ob Nixilis Reignited"/>
+        <card number="1" name="Ogre Slumlord"/>
+        <card number="1" name="Pestilence"/>
+        <card number="1" name="Phyrexian Revoker"/>
+        <card number="1" name="Pithing Needle"/>
+        <card number="1" name="Price of Fame"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Ratcatcher"/>
+        <card number="22" name="Relentless Rats"/>
+        <card number="1" name="Renegade Map"/>
+        <card number="1" name="Rhonas's Monument"/>
+        <card number="1" name="Ruinous Path"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Skeletal Scrying"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Sorcerous Spyglass"/>
+        <card number="1" name="Soul Foundry"/>
+        <card number="1" name="Spark Harvest"/>
+        <card number="25" name="Swamp"/>
+        <card number="1" name="Talisman of Resilience"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Twinning Glass"/>
+        <card number="1" name="Vanquisher's Banner"/>
+        <card number="1" name="Victim of Night"/>
+        <card number="1" name="Viper's Kiss"/>
+        <card number="1" name="Vizier of the Menagerie"/>
+        <card number="1" name="Jarad, Golgari Lich Lord"/>
+        <card number="1" name="Damia, Sage of Stone"/>
+        <card number="1" name="Island"/>
+        <card number="1" name="Simic Guildgate"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Swamp"/>
+        <card number="1" name="Forest"/>
+        <card number="1" name="Sign in Blood"/>
+    </zone>
+</cockatrice_deck>
