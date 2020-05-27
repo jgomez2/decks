@@ -3,41 +3,51 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Beacon of Destruction"/>
-        <card number="1" name="Blaze"/>
-        <card number="3" name="Chandra's Fury"/>
-        <card number="4" name="Chandra's Outrage"/>
-        <card number="2" name="Chandra's Phoenix"/>
-        <card number="1" name="Chandra's Spitfire"/>
-        <card number="2" name="Cone of Flame"/>
-        <card number="1" name="Disaster Radius"/>
-        <card number="2" name="Dragon Hatchling"/>
-        <card number="1" name="Earthquake"/>
+        <card number="2" name="Chandra's Fury"/>
+        <card number="3" name="Chandra's Outrage"/>
+        <card number="1" name="Chandra's Phoenix"/>
+        <card number="1" name="Dragon Hatchling"/>
         <card number="2" name="Fiery Hellhound"/>
         <card number="2" name="Fire Elemental"/>
-        <card number="2" name="Fire Servant"/>
-        <card number="1" name="Fireblast"/>
-        <card number="3" name="Firewing Phoenix"/>
+        <card number="2" name="Firewing Phoenix"/>
         <card number="2" name="Flame Slash"/>
         <card number="1" name="Flame Wave"/>
-        <card number="2" name="Flamebreak"/>
-        <card number="3" name="Flames of the Blood Hand"/>
+        <card number="1" name="Flamebreak"/>
         <card number="2" name="Flames of the Firebrand"/>
         <card number="2" name="Furnace Whelp"/>
         <card number="1" name="Hostility"/>
-        <card number="1" name="Inferno Titan"/>
-        <card number="2" name="Magma Phoenix"/>
+        <card number="1" name="Magma Phoenix"/>
         <card number="24" name="Mountain"/>
-        <card number="2" name="Obsidian Fireheart"/>
         <card number="1" name="Prodigal Pyromancer"/>
         <card number="2" name="Pyre Charger"/>
         <card number="1" name="Rain of Embers"/>
-        <card number="2" name="Red Sun's Zenith"/>
         <card number="2" name="Ruby Medallion"/>
-        <card number="3" name="Searing Blaze"/>
         <card number="4" name="Searing Spear"/>
         <card number="1" name="Skarrgan Firebird"/>
-        <card number="2" name="Swiftfoot Boots"/>
         <card number="2" name="Torch Fiend"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sideboard:"/>
+        <card number="1" name="Beacon of Destruction"/>
+        <card number="1" name="Blaze"/>
+        <card number="1" name="Chandra's Fury"/>
+        <card number="1" name="Chandra's Outrage"/>
+        <card number="1" name="Chandra's Phoenix"/>
+        <card number="1" name="Chandra's Spitfire"/>
+        <card number="2" name="Cone of Flame"/>
+        <card number="1" name="Disaster Radius"/>
+        <card number="1" name="Dragon Hatchling"/>
+        <card number="1" name="Earthquake"/>
+        <card number="2" name="Fire Servant"/>
+        <card number="1" name="Fireblast"/>
+        <card number="1" name="Firewing Phoenix"/>
+        <card number="1" name="Flamebreak"/>
+        <card number="3" name="Flames of the Blood Hand"/>
+        <card number="1" name="Inferno Titan"/>
+        <card number="1" name="Magma Phoenix"/>
+        <card number="2" name="Obsidian Fireheart"/>
+        <card number="2" name="Red Sun's Zenith"/>
+        <card number="3" name="Searing Blaze"/>
+        <card number="2" name="Swiftfoot Boots"/>
     </zone>
 </cockatrice_deck>

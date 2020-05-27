@@ -3,45 +3,51 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Archive Trap"/>
-        <card number="1" name="Body Double"/>
-        <card number="2" name="Chancellor of the Spires"/>
-        <card number="2" name="Clone"/>
+        <card number="2" name="Aether Adept"/>
+        <card number="2" name="Cephalid Broker"/>
+        <card number="1" name="Clone"/>
         <card number="2" name="Counterspell"/>
-        <card number="3" name="Crippling Chill"/>
-        <card number="2" name="Dreamborn Muse"/>
+        <card number="1" name="Crippling Chill"/>
+        <card number="1" name="Dreamborn Muse"/>
         <card number="2" name="Font of Mythos"/>
-        <card number="2" name="Hedron Crab"/>
         <card number="2" name="Howling Mine"/>
         <card number="2" name="Into the Roil"/>
-        <card number="22" name="Island"/>
+        <card number="25" name="Island"/>
         <card number="2" name="Jace's Erasure"/>
-        <card number="4" name="Jace's Phantasm"/>
-        <card number="2" name="Mind Control"/>
-        <card number="3" name="Mind Sculpt"/>
-        <card number="1" name="Sands of Delirium"/>
+        <card number="3" name="Jace's Phantasm"/>
+        <card number="1" name="Mind Control"/>
+        <card number="2" name="Mind Sculpt"/>
         <card number="2" name="Sapphire Medallion"/>
-        <card number="1" name="Scalpelexis"/>
         <card number="1" name="Sleep"/>
-        <card number="1" name="Sword of Body and Mind"/>
         <card number="1" name="Telemin Performance"/>
         <card number="3" name="Thought Scour"/>
-        <card number="2" name="Tome Scour"/>
-        <card number="1" name="Traumatize"/>
-        <card number="2" name="Unsummon"/>
-        <card number="2" name="Vedalken Entrancer"/>
-        <card number="2" name="Visions of Beyond"/>
+        <card number="3" name="Vedalken Entrancer"/>
+        <card number="1" name="Visions of Beyond"/>
         <card number="1" name="Wheel and Deal"/>
     </zone>
     <zone name="side">
-        <card number="2" name="AEther Adept"/>
-        <card number="2" name="Cephalid Broker"/>
+        <card number="1" name="Sideboard:"/>
+        <card number="1" name="Archive Trap"/>
+        <card number="1" name="Body Double"/>
+        <card number="2" name="Chancellor of the Spires"/>
+        <card number="1" name="Clone"/>
+        <card number="2" name="Crippling Chill"/>
+        <card number="1" name="Dreamborn Muse"/>
         <card number="1" name="Grindclock"/>
+        <card number="2" name="Hedron Crab"/>
         <card number="2" name="Icy Manipulator"/>
-        <card number="3" name="Island"/>
         <card number="2" name="Isleback Spawn"/>
+        <card number="1" name="Jace's Phantasm"/>
+        <card number="1" name="Mind Control"/>
+        <card number="1" name="Mind Sculpt"/>
         <card number="2" name="Prosperity"/>
+        <card number="1" name="Sands of Delirium"/>
+        <card number="1" name="Scalpelexis"/>
         <card number="1" name="Sturmgeist"/>
-        <card number="1" name="Vedalken Entrancer"/>
+        <card number="1" name="Sword of Body and Mind"/>
+        <card number="2" name="Tome Scour"/>
+        <card number="1" name="Traumatize"/>
+        <card number="2" name="Unsummon"/>
+        <card number="1" name="Visions of Beyond"/>
     </zone>
 </cockatrice_deck>

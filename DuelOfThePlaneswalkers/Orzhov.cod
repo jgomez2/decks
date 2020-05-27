@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Angel of Flight Alabaster"/>
+        <card number="2" name="Bloodgift Demon"/>
+        <card number="3" name="Bloodhunter Bat"/>
+        <card number="1" name="Debtors' Knell"/>
+        <card number="1" name="Divinity of Pride"/>
+        <card number="4" name="Doomed Traveler"/>
+        <card number="1" name="Gravedigger"/>
+        <card number="1" name="Guardian Seraph"/>
+        <card number="1" name="Keening Banshee"/>
+        <card number="1" name="Midnight Haunting"/>
+        <card number="2" name="Mourning Thrull"/>
+        <card number="1" name="Necromancer's Covenant"/>
+        <card number="2" name="Onyx Mage"/>
+        <card number="2" name="Orzhov Guildmage"/>
+        <card number="3" name="Pillory of the Sleepless"/>
+        <card number="10" name="Plains"/>
+        <card number="2" name="Restless Apparition"/>
+        <card number="1" name="Sanguine Praetor"/>
+        <card number="1" name="Shepherd of the Lost"/>
+        <card number="1" name="Soul Feast"/>
+        <card number="11" name="Swamp"/>
+        <card number="4" name="Terramorphic Expanse"/>
+        <card number="2" name="Unmake"/>
+        <card number="1" name="Voracious Hatchling"/>
+        <card number="1" name="Zealous Persecution"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sideboard:"/>
+        <card number="1" name="Angel of Despair"/>
+        <card number="1" name="Blazing Archon"/>
+        <card number="1" name="Bloodgift Demon"/>
+        <card number="2" name="Castigate"/>
+        <card number="1" name="Damnation"/>
+        <card number="1" name="Deathbringer Liege"/>
+        <card number="1" name="Debtors' Knell"/>
+        <card number="1" name="Divinity of Pride"/>
+        <card number="2" name="Edge of the Divinity"/>
+        <card number="3" name="Falkenrath Noble"/>
+        <card number="1" name="Ghost Council of Orzhova"/>
+        <card number="1" name="Ob Nixilis, the Fallen"/>
+        <card number="1" name="Pillory of the Sleepless"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Stillmoon Cavalier"/>
+        <card number="2" name="Tainted Sigil"/>
+        <card number="2" name="Unmake"/>
+        <card number="2" name="Vampire Nighthawk"/>
+        <card number="1" name="Vindicate"/>
+        <card number="1" name="Vish Kal, Blood Arbiter"/>
+        <card number="1" name="Voracious Hatchling"/>
+        <card number="2" name="Zealous Persecution"/>
+    </zone>
+</cockatrice_deck>

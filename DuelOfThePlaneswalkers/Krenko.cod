@@ -3,44 +3,55 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="1" name="Arms Dealer"/>
         <card number="1" name="Battle-Rattle Shaman"/>
         <card number="1" name="Blisterstick Shaman"/>
-        <card number="1" name="Chancellor of the Forge"/>
         <card number="1" name="Clickslither"/>
         <card number="2" name="Ember Hauler"/>
-        <card number="3" name="Gempalm Incinerator"/>
+        <card number="2" name="Gempalm Incinerator"/>
         <card number="2" name="Goblin Arsonist"/>
-        <card number="2" name="Goblin Balloon Brigade"/>
-        <card number="2" name="Goblin Bushwhacker"/>
-        <card number="2" name="Goblin Chieftain"/>
-        <card number="1" name="Goblin Dynamo"/>
+        <card number="1" name="Goblin Bushwhacker"/>
+        <card number="1" name="Goblin Chieftain"/>
         <card number="1" name="Goblin Fire Fiend"/>
-        <card number="1" name="Goblin Fireslinger"/>
-        <card number="1" name="Goblin Goon"/>
-        <card number="2" name="Goblin Grenade"/>
-        <card number="1" name="Goblin Guide"/>
-        <card number="1" name="Goblin Offensive"/>
+        <card number="1" name="Goblin Grenade"/>
         <card number="3" name="Goblin Piker"/>
-        <card number="2" name="Goblin Piledriver"/>
-        <card number="1" name="Goblin Ringleader"/>
+        <card number="1" name="Goblin Piledriver"/>
         <card number="1" name="Goblin Roughrider"/>
         <card number="1" name="Goblin Warchief"/>
         <card number="1" name="Goblin Wardriver"/>
-        <card number="3" name="Krenko's Command"/>
-        <card number="1" name="Krenko, Mob Boss"/>
-        <card number="1" name="Lavafume Invoker"/>
-        <card number="3" name="Lowland Oaf"/>
+        <card number="2" name="Krenko's Command"/>
+        <card number="1" name="Lowland Oaf"/>
         <card number="1" name="Mindmoil"/>
         <card number="24" name="Mountain"/>
         <card number="1" name="Rage Reflection"/>
         <card number="2" name="Raging Goblin"/>
         <card number="2" name="Reckless One"/>
-        <card number="2" name="Relentless Assault"/>
         <card number="2" name="Ring of Valkas"/>
-        <card number="3" name="Rummaging Goblin"/>
+        <card number="2" name="Rummaging Goblin"/>
         <card number="2" name="Shock"/>
         <card number="1" name="Siege-Gang Commander"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sideboard:"/>
+        <card number="1" name="Arms Dealer"/>
+        <card number="1" name="Chancellor of the Forge"/>
+        <card number="1" name="Gempalm Incinerator"/>
+        <card number="2" name="Goblin Balloon Brigade"/>
+        <card number="1" name="Goblin Bushwhacker"/>
+        <card number="1" name="Goblin Chieftain"/>
+        <card number="1" name="Goblin Dynamo"/>
+        <card number="1" name="Goblin Fireslinger"/>
+        <card number="1" name="Goblin Goon"/>
+        <card number="1" name="Goblin Grenade"/>
+        <card number="1" name="Goblin Guide"/>
+        <card number="1" name="Goblin Offensive"/>
+        <card number="1" name="Goblin Piledriver"/>
+        <card number="1" name="Goblin Ringleader"/>
+        <card number="1" name="Krenko's Command"/>
+        <card number="1" name="Krenko, Mob Boss"/>
+        <card number="1" name="Lavafume Invoker"/>
+        <card number="2" name="Lowland Oaf"/>
+        <card number="2" name="Relentless Assault"/>
+        <card number="1" name="Rummaging Goblin"/>
         <card number="2" name="Smelt"/>
         <card number="1" name="Squee, Goblin Nabob"/>
         <card number="2" name="Thunder-Thrash Elder"/>

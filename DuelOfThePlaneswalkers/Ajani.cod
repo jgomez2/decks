@@ -4,43 +4,56 @@
     <comments></comments>
     <zone name="main">
         <card number="1" name="Ajani's Mantra"/>
-        <card number="4" name="Ajani's Pridemate"/>
-        <card number="2" name="Ajani's Sunstriker"/>
+        <card number="2" name="Ajani's Pridemate"/>
+        <card number="1" name="Ajani's Sunstriker"/>
         <card number="1" name="Angel's Feather"/>
         <card number="1" name="Archon of Redemption"/>
-        <card number="1" name="Baneslayer Angel"/>
-        <card number="1" name="Basilisk Collar"/>
-        <card number="1" name="Beacon of Immortality"/>
         <card number="1" name="Cathedral Sanctifier"/>
         <card number="1" name="Celestial Force"/>
-        <card number="2" name="Celestial Mantle"/>
-        <card number="3" name="Chastise"/>
-        <card number="2" name="Day of Judgment"/>
+        <card number="1" name="Celestial Mantle"/>
+        <card number="1" name="Chastise"/>
         <card number="2" name="Divine Favor"/>
-        <card number="2" name="Elixir of Immortality"/>
-        <card number="1" name="Felidar Sovereign"/>
         <card number="1" name="Goldenglow Moth"/>
         <card number="3" name="Kemba's Skyguard"/>
-        <card number="2" name="Knight of Meadowgrain"/>
         <card number="2" name="Kor Cartographer"/>
         <card number="1" name="Landbind Ritual"/>
         <card number="2" name="Lone Missionary"/>
         <card number="1" name="Loxodon Warhammer"/>
-        <card number="2" name="Moment of Heroism"/>
+        <card number="1" name="Moment of Heroism"/>
         <card number="1" name="Peace Strider"/>
         <card number="2" name="Pearl Medallion"/>
         <card number="25" name="Plains"/>
+        <card number="2" name="Seraph of Dawn"/>
+        <card number="1" name="Serra Ascendant"/>
+        <card number="1" name="Slith Ascendant"/>
+        <card number="2" name="Solemn Offering"/>
+        <card number="2" name="Soul Warden"/>
+        <card number="1" name="White Sun's Zenith"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sideboard:"/>
+        <card number="2" name="Ajani's Pridemate"/>
+        <card number="1" name="Ajani's Sunstriker"/>
+        <card number="1" name="Baneslayer Angel"/>
+        <card number="1" name="Basilisk Collar"/>
+        <card number="1" name="Beacon of Immortality"/>
+        <card number="1" name="Celestial Mantle"/>
+        <card number="2" name="Chastise"/>
+        <card number="2" name="Day of Judgment"/>
+        <card number="2" name="Elixir of Immortality"/>
+        <card number="1" name="Felidar Sovereign"/>
+        <card number="2" name="Knight of Meadowgrain"/>
+        <card number="1" name="Moment of Heroism"/>
         <card number="1" name="Purity"/>
         <card number="1" name="Recumbent Bliss"/>
         <card number="1" name="Rhox Faithmender"/>
-        <card number="3" name="Seraph of Dawn"/>
-        <card number="3" name="Serra Ascendant"/>
-        <card number="2" name="Slith Ascendant"/>
-        <card number="3" name="Solemn Offering"/>
-        <card number="3" name="Soul Warden"/>
+        <card number="1" name="Seraph of Dawn"/>
+        <card number="2" name="Serra Ascendant"/>
+        <card number="1" name="Slith Ascendant"/>
+        <card number="1" name="Solemn Offering"/>
+        <card number="1" name="Soul Warden"/>
         <card number="1" name="Swell of Courage"/>
         <card number="2" name="Swords to Plowshares"/>
         <card number="1" name="Well of Lost Dreams"/>
-        <card number="1" name="White Sun's Zenith"/>
     </zone>
 </cockatrice_deck>
