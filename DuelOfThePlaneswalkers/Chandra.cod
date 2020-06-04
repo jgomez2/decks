@@ -30,24 +30,32 @@
         <card number="1" name="Sideboard:"/>
         <card number="1" name="Beacon of Destruction"/>
         <card number="1" name="Blaze"/>
+        <card number="1" name="Chain Reaction"/>
         <card number="1" name="Chandra's Fury"/>
         <card number="1" name="Chandra's Outrage"/>
-        <card number="1" name="Chandra's Phoenix"/>
+        <card number="2" name="Chandra's Phoenix"/>
         <card number="1" name="Chandra's Spitfire"/>
         <card number="2" name="Cone of Flame"/>
         <card number="1" name="Disaster Radius"/>
         <card number="1" name="Dragon Hatchling"/>
+        <card number="1" name="Dragon Mage"/>
         <card number="1" name="Earthquake"/>
         <card number="2" name="Fire Servant"/>
         <card number="1" name="Fireblast"/>
         <card number="1" name="Firewing Phoenix"/>
+        <card number="1" name="Flame Wave"/>
         <card number="1" name="Flamebreak"/>
         <card number="3" name="Flames of the Blood Hand"/>
-        <card number="1" name="Inferno Titan"/>
+        <card number="1" name="Furnace of Rath"/>
+        <card number="1" name="Hostility"/>
+        <card number="2" name="Inferno Titan"/>
+        <card number="1" name="Lightning Bolt"/>
         <card number="1" name="Magma Phoenix"/>
         <card number="2" name="Obsidian Fireheart"/>
         <card number="2" name="Red Sun's Zenith"/>
         <card number="3" name="Searing Blaze"/>
+        <card number="1" name="Sulfuric Vortex"/>
         <card number="2" name="Swiftfoot Boots"/>
+        <card number="1" name="Worldfire"/>
     </zone>
 </cockatrice_deck>

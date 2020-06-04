@@ -26,30 +26,37 @@
         <card number="1" name="Wildheart Invoker"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Sideboard:"/>
         <card number="2" name="Ant Queen"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Biorhythm"/>
         <card number="1" name="Blanchwood Armor"/>
         <card number="1" name="Boundless Realms"/>
         <card number="1" name="Chameleon Colossus"/>
         <card number="2" name="Cultivate"/>
+        <card number="1" name="Dungrove Elder"/>
         <card number="1" name="Epic Proportions"/>
         <card number="2" name="Fangren Firstborn"/>
         <card number="2" name="Garruk's Companion"/>
         <card number="1" name="Garruk's Packleader"/>
+        <card number="1" name="Genesis Wave"/>
         <card number="1" name="Howl of the Night Pack"/>
-        <card number="1" name="Incremental Growth"/>
+        <card number="2" name="Incremental Growth"/>
         <card number="2" name="Jayemdae Tome"/>
         <card number="1" name="Khalni Hydra"/>
         <card number="2" name="Leatherback Baloth"/>
         <card number="1" name="Master of the Wild Hunt"/>
+        <card number="1" name="Obstinate Baloth"/>
         <card number="1" name="Predatory Rampage"/>
         <card number="1" name="Primal Bellow"/>
         <card number="1" name="Primalcrux"/>
         <card number="1" name="Primeval Titan"/>
-        <card number="1" name="Primordial Hydra"/>
+        <card number="2" name="Primordial Hydra"/>
         <card number="1" name="Rampaging Baloths"/>
         <card number="1" name="Timbermaw Larva"/>
         <card number="1" name="Ulvenwald Tracker"/>
+        <card number="1" name="Verdant Force"/>
+        <card number="1" name="Vinelasher Kudzu"/>
+        <card number="1" name="Vorapede"/>
         <card number="1" name="Wildheart Invoker"/>
     </zone>
 </cockatrice_deck>

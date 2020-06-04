@@ -31,29 +31,32 @@
         <card number="1" name="White Sun's Zenith"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Sideboard:"/>
         <card number="2" name="Ajani's Pridemate"/>
         <card number="1" name="Ajani's Sunstriker"/>
-        <card number="1" name="Baneslayer Angel"/>
+        <card number="1" name="Archon of Redemption"/>
+        <card number="2" name="Baneslayer Angel"/>
         <card number="1" name="Basilisk Collar"/>
-        <card number="1" name="Beacon of Immortality"/>
+        <card number="2" name="Beacon of Immortality"/>
         <card number="1" name="Celestial Mantle"/>
-        <card number="2" name="Chastise"/>
+        <card number="3" name="Chastise"/>
         <card number="2" name="Day of Judgment"/>
         <card number="2" name="Elixir of Immortality"/>
         <card number="1" name="Felidar Sovereign"/>
         <card number="2" name="Knight of Meadowgrain"/>
+        <card number="1" name="Marshal's Anthem"/>
         <card number="1" name="Moment of Heroism"/>
         <card number="1" name="Purity"/>
-        <card number="1" name="Recumbent Bliss"/>
+        <card number="2" name="Recumbent Bliss"/>
         <card number="1" name="Rhox Faithmender"/>
         <card number="1" name="Seraph of Dawn"/>
-        <card number="2" name="Serra Ascendant"/>
+        <card number="3" name="Serra Ascendant"/>
+        <card number="1" name="Serra Avatar"/>
         <card number="1" name="Slith Ascendant"/>
         <card number="1" name="Solemn Offering"/>
-        <card number="1" name="Soul Warden"/>
+        <card number="2" name="Soul Warden"/>
         <card number="1" name="Swell of Courage"/>
         <card number="2" name="Swords to Plowshares"/>
         <card number="1" name="Well of Lost Dreams"/>
+        <card number="1" name="White Sun's Zenith"/>
     </zone>
 </cockatrice_deck>

@@ -31,31 +31,35 @@
         <card number="1" name="Siege-Gang Commander"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Sideboard:"/>
-        <card number="1" name="Arms Dealer"/>
+        <card number="2" name="Arms Dealer"/>
         <card number="1" name="Chancellor of the Forge"/>
         <card number="1" name="Gempalm Incinerator"/>
+        <card number="1" name="Goblin Artillery"/>
+        <card number="1" name="Goblin Assault"/>
         <card number="2" name="Goblin Balloon Brigade"/>
         <card number="1" name="Goblin Bushwhacker"/>
-        <card number="1" name="Goblin Chieftain"/>
+        <card number="2" name="Goblin Chieftain"/>
         <card number="1" name="Goblin Dynamo"/>
         <card number="1" name="Goblin Fireslinger"/>
         <card number="1" name="Goblin Goon"/>
         <card number="1" name="Goblin Grenade"/>
-        <card number="1" name="Goblin Guide"/>
+        <card number="2" name="Goblin Guide"/>
         <card number="1" name="Goblin Offensive"/>
         <card number="1" name="Goblin Piledriver"/>
-        <card number="1" name="Goblin Ringleader"/>
+        <card number="2" name="Goblin Ringleader"/>
+        <card number="1" name="Goblin War Strike"/>
         <card number="1" name="Krenko's Command"/>
         <card number="1" name="Krenko, Mob Boss"/>
         <card number="1" name="Lavafume Invoker"/>
         <card number="2" name="Lowland Oaf"/>
+        <card number="1" name="Reckless One"/>
         <card number="2" name="Relentless Assault"/>
         <card number="1" name="Rummaging Goblin"/>
+        <card number="1" name="Siege-Gang Commander"/>
         <card number="2" name="Smelt"/>
         <card number="1" name="Squee, Goblin Nabob"/>
         <card number="2" name="Thunder-Thrash Elder"/>
         <card number="1" name="Voracious Dragon"/>
-        <card number="1" name="Warren Instigator"/>
+        <card number="2" name="Warren Instigator"/>
     </zone>
 </cockatrice_deck>

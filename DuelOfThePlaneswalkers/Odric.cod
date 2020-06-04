@@ -25,31 +25,34 @@
         <card number="2" name="Squadron Hawk"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Sideboard:"/>
+        <card number="1" name="Accorder Paladin"/>
         <card number="1" name="Archangel"/>
         <card number="2" name="Archon of Justice"/>
-        <card number="1" name="Captain of the Watch"/>
+        <card number="2" name="Captain of the Watch"/>
         <card number="1" name="Captain's Call"/>
         <card number="1" name="Crusader of Odric"/>
-        <card number="1" name="Dawn Elemental"/>
+        <card number="2" name="Dawn Elemental"/>
         <card number="1" name="Elgaud Inquisitor"/>
         <card number="1" name="Elite Vanguard"/>
         <card number="1" name="Flickerwisp"/>
         <card number="1" name="Geist-Honored Monk"/>
         <card number="1" name="Glorious Anthem"/>
-        <card number="1" name="Guardians' Pledge"/>
-        <card number="1" name="Honor of the Pure"/>
-        <card number="1" name="Intrepid Hero"/>
+        <card number="2" name="Guardians' Pledge"/>
+        <card number="2" name="Honor of the Pure"/>
+        <card number="2" name="Intrepid Hero"/>
         <card number="2" name="Journey to Nowhere"/>
         <card number="1" name="Loyal Sentry"/>
-        <card number="1" name="Mass Calcify"/>
+        <card number="2" name="Mass Calcify"/>
         <card number="1" name="Master Decoy"/>
         <card number="1" name="Mausoleum Guard"/>
         <card number="1" name="Midnight Guard"/>
         <card number="1" name="Odric, Master Tactician"/>
         <card number="2" name="Pennon Blade"/>
+        <card number="1" name="Sigil of the New Dawn"/>
         <card number="1" name="Spectral Rider"/>
         <card number="1" name="Spirit of the Hearth"/>
+        <card number="1" name="Squadron Hawk"/>
+        <card number="1" name="Sun Titan"/>
         <card number="1" name="Turn the Tables"/>
         <card number="2" name="Windborne Charge"/>
     </zone>
