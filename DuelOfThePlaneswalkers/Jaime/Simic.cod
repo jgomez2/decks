@@ -4,6 +4,7 @@
     <comments></comments>
     <zone name="main">
         <card number="2" name="Aether Mutation"/>
+        <card number="2" name="Acidic Slime"/>
         <card number="3" name="Assault Zeppelid"/>
         <card number="3" name="Claustrophobia"/>
         <card number="4" name="Coiling Oracle"/>
@@ -29,7 +30,6 @@
     </zone>
     <zone name="side">
         <card number="1" name="Sideboard:"/>
-        <card number="2" name="Acidic Slime"/>
         <card number="1" name="Aether Mutation"/>
         <card number="1" name="Biomantic Mastery"/>
         <card number="1" name="Draining Whelk"/>
