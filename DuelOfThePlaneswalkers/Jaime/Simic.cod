@@ -5,52 +5,48 @@
     <zone name="main">
         <card number="2" name="Aether Mutation"/>
         <card number="2" name="Acidic Slime"/>
-        <card number="3" name="Assault Zeppelid"/>
         <card number="3" name="Claustrophobia"/>
         <card number="4" name="Coiling Oracle"/>
-        <card number="1" name="Fable of Wolf and Owl"/>
+        <card number="1" name="Draining Whelk"/>
+        <card number="2" name="Fable of Wolf and Owl"/>
         <card number="11" name="Forest"/>
         <card number="3" name="Gaea's Skyfolk"/>
-        <card number="2" name="Groundswell"/>
-        <card number="2" name="Indrik Stomphowler"/>
+        <card number="1" name="Indrik Stomphowler"/>
         <card number="10" name="Island"/>
-        <card number="1" name="Lorescale Coatl"/>
-        <card number="1" name="Omnibian"/>
-        <card number="1" name="Overbeing of Myth"/>
+        <card number="3" name="Lorescale Coatl"/>
+        <card number="1" name="Momir Vig, Simic Visionary"/>
+        <card number="1" name="Murkfiend Liege"/>
+        <card number="1" name="Multani, Maro-Sorcerer"/>
+        <card number="1" name="Mystic Snake"/>
+        <card number="2" name="Overbeing of Myth"/>
         <card number="2" name="Pongify"/>
-        <card number="1" name="Protean Hulk"/>
-        <card number="2" name="Simic Ragworm"/>
+        <card number="1" name="Protean Hulk"/>        
         <card number="1" name="Simic Sky Swallower"/>
-        <card number="4" name="Terramorphic Expanse"/>
+        <card number="1" name="Snakeform"/>
+        <card number="1" name="Sower of Temptation"/>
         <card number="1" name="Tidespout Tyrant"/>
         <card number="1" name="Trygon Predator"/>
         <card number="2" name="Winged Coatl"/>
         <card number="1" name="Wistful Selkie"/>
-        <card number="1" name="Yavimaya's Embrace"/>
+        <card number="2" name="Yavimaya's Embrace"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Sideboard:"/>
         <card number="1" name="Aether Mutation"/>
+        <card number="3" name="Assault Zeppelid"/>
         <card number="1" name="Biomantic Mastery"/>
-        <card number="1" name="Draining Whelk"/>
-        <card number="2" name="Fable of Wolf and Owl"/>
+        <card number="1" name="Fable of Wolf and Owl"/>
         <card number="1" name="Gigantomancer"/>
+        <card number="2" name="Groundswell"/>
+        <card number="1" name="Indrik Stomphowler"/>
         <card number="2" name="Jhessian Infiltrator"/>
-        <card number="2" name="Lorescale Coatl"/>
         <card number="2" name="Mitotic Slime"/>
-        <card number="1" name="Momir Vig, Simic Visionary"/>
-        <card number="1" name="Multani, Maro-Sorcerer"/>
-        <card number="1" name="Murkfiend Liege"/>
-        <card number="1" name="Mystic Snake"/>
-        <card number="2" name="Omnibian"/>
-        <card number="1" name="Overbeing of Myth"/>
+        <card number="3" name="Omnibian"/>
         <card number="1" name="Quest for the Gemblades"/>
         <card number="1" name="Regrowth"/>
         <card number="2" name="Selkie Hedge-Mage"/>
+        <card number="2" name="Simic Ragworm"/>
         <card number="1" name="Simic Sky Swallower"/>
-        <card number="1" name="Snakeform"/>
-        <card number="1" name="Sower of Temptation"/>
+        <card number="4" name="Terramorphic Expanse"/>
         <card number="1" name="Vedalken Heretic"/>
-        <card number="1" name="Yavimaya's Embrace"/>
     </zone>
 </cockatrice_deck>
