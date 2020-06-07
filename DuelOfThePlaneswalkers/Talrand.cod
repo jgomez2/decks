@@ -22,29 +22,35 @@
         <card number="4" name="Talrand's Invocation"/>
     </zone>
     <zone name="side">
+        <card number="1" name="Sideboard:"/>
         <card number="1" name="Arm with Aether"/>
         <card number="3" name="Azure Mage"/>
-        <card number="1" name="Blatant Thievery"/>
+        <card number="2" name="Blatant Thievery"/>
+        <card number="1" name="Bribery"/>
         <card number="1" name="Call to Mind"/>
         <card number="1" name="Cast Through Time"/>
         <card number="1" name="Cerulean Sphinx"/>
-        <card number="1" name="Day of the Dragons"/>
+        <card number="2" name="Day of the Dragons"/>
         <card number="2" name="Dehydration"/>
         <card number="2" name="Distortion Strike"/>
-        <card number="1" name="Future Sight"/>
+        <card number="1" name="Flow of Ideas"/>
+        <card number="1" name="Followed Footsteps"/>
+        <card number="2" name="Future Sight"/>
         <card number="1" name="Goliath Sphinx"/>
         <card number="1" name="Gravitational Shift"/>
         <card number="1" name="Keep Watch"/>
         <card number="2" name="Mana Leak"/>
         <card number="1" name="Panoptic Mirror"/>
         <card number="2" name="Repulse"/>
-        <card number="1" name="Rite of Replication"/>
+        <card number="2" name="Rite of Replication"/>
         <card number="1" name="Sphinx of Lost Truths"/>
         <card number="1" name="Spiketail Drake"/>
         <card number="1" name="Spiketail Hatchling"/>
         <card number="1" name="Talrand, Sky Summoner"/>
+        <card number="1" name="Tidings"/>
         <card number="1" name="Time Reversal"/>
-        <card number="1" name="Time Warp"/>
+        <card number="1" name="Time Stretch"/>
+        <card number="2" name="Time Warp"/>
         <card number="1" name="Twincast"/>
     </zone>
 </cockatrice_deck>

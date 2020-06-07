@@ -28,26 +28,32 @@
     <zone name="side">
         <card number="1" name="Sideboard:"/>
         <card number="2" name="Akrasan Squire"/>
+        <card number="1" name="Angel of Despair"/>
         <card number="2" name="Angelic Benediction"/>
         <card number="1" name="Cathedral of War"/>
         <card number="2" name="Darklit Gargoyle"/>
         <card number="1" name="Deathbringer Liege"/>
         <card number="1" name="Debtors' Knell"/>
-        <card number="1" name="Divinity of Pride"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="2" name="Divinity of Pride"/>
         <card number="1" name="Guardians of Akrasa"/>
         <card number="3" name="Knight of Glory"/>
         <card number="2" name="Knight of Infamy"/>
         <card number="1" name="Mark of Asylum"/>
         <card number="1" name="Mighty Leap"/>
+        <card number="1" name="Mortify"/>
         <card number="1" name="Nefarox, Overlord of Grixis"/>
         <card number="1" name="No Mercy"/>
+        <card number="1" name="Pillory of the Sleepless"/>
+        <card number="1" name="Royal Assassin"/>
         <card number="1" name="Sigil of Distinction"/>
         <card number="1" name="Silent Arbiter"/>
-        <card number="2" name="Spirit Mantle"/>
+        <card number="3" name="Spirit Mantle"/>
         <card number="1" name="Sublime Archangel"/>
         <card number="1" name="Sword of Vengeance"/>
-        <card number="2" name="Unmake"/>
-        <card number="1" name="Vindicate"/>
+        <card number="3" name="Unmake"/>
+        <card number="2" name="Vindicate"/>
         <card number="1" name="Whispersilk Cloak"/>
+        <card number="1" name="Worship"/>
     </zone>
 </cockatrice_deck>

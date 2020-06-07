@@ -29,26 +29,32 @@
     <zone name="side">
         <card number="1" name="Sideboard:"/>
         <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Beast Within"/>
         <card number="2" name="Briarpack Alpha"/>
         <card number="2" name="Caller of the Claw"/>
         <card number="1" name="Carven Caryatid"/>
+        <card number="1" name="Decree of Savagery"/>
         <card number="1" name="Elderscale Wurm"/>
         <card number="1" name="Elvish Visionary"/>
         <card number="2" name="Erratic Portal"/>
         <card number="1" name="Eternal Witness"/>
         <card number="1" name="Fauna Shaman"/>
         <card number="1" name="Gaea's Revenge"/>
+        <card number="1" name="Gigantomancer"/>
         <card number="1" name="Herd Gnarr"/>
+        <card number="1" name="Joraga Warcaller"/>
         <card number="1" name="Lurking Predators"/>
-        <card number="1" name="Manaplasm"/>
+        <card number="2" name="Manaplasm"/>
         <card number="2" name="Momentous Fall"/>
-        <card number="1" name="Natural Order"/>
+        <card number="2" name="Natural Order"/>
         <card number="2" name="Pelakka Wurm"/>
         <card number="1" name="Primal Surge"/>
         <card number="1" name="Primordial Sage"/>
+        <card number="1" name="Soul of the Harvest"/>
+        <card number="1" name="Spawnwrithe"/>
         <card number="1" name="Stingerfling Spider"/>
-        <card number="1" name="Thragtusk"/>
-        <card number="1" name="Vengevine"/>
+        <card number="2" name="Thragtusk"/>
+        <card number="2" name="Vengevine"/>
         <card number="2" name="Wild Pair"/>
         <card number="1" name="Wood Elves"/>
         <card number="1" name="Yeva, Nature's Herald"/>
