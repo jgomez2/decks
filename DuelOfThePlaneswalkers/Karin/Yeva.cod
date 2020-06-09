@@ -3,7 +3,7 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="2" name="Acidic Slime"/>
+        <card number="1" name="Acidic Slime"/>
         <card number="2" name="Ambassador Oak"/>
         <card number="1" name="Awakener Druid"/>
         <card number="2" name="Beast Within"/>
@@ -28,7 +28,7 @@
     </zone>
     <zone name="side">
         <card number="1" name="Sideboard:"/>
-        <card number="1" name="Acidic Slime"/>
+        <card number="2" name="Acidic Slime"/>
         <card number="2" name="Briarpack Alpha"/>
         <card number="2" name="Caller of the Claw"/>
         <card number="1" name="Carven Caryatid"/>
