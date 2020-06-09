@@ -3,54 +3,48 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
+        <card number="1" name="Aggravated Assault"/>
+        <card number="2" name="Assault Strobe"/>
+        <card number="1" name="Balefire Dragon"/>
+        <card number="1" name="Balefire Liege"/>
+        <card number="1" name="Basandra, Battle Seraph"/>
         <card number="2" name="Benalish Veteran"/>
         <card number="2" name="Boros Guildmage"/>
         <card number="3" name="Boros Recruit"/>
         <card number="2" name="Boros Swiftblade"/>
-        <card number="1" name="Breath of Fury"/>
-        <card number="1" name="Brightflame"/>
-        <card number="1" name="Bull Cerodon"/>
+        <card number="2" name="Breath of Life"/>
         <card number="1" name="Faith's Fetters"/>
         <card number="1" name="Firemane Angel"/>
         <card number="2" name="Flame-Kin Zealot"/>
         <card number="1" name="Glory of Warfare"/>
         <card number="1" name="Hammerfist Giant"/>
-        <card number="1" name="Lightning Helix"/>
+        <card number="1" name="Intimidation Bolt"/>
+        <card number="3" name="Lightning Helix"/>
+        <card number="1" name="Lightning Serpent"/>
         <card number="1" name="Lightwielder Paladin"/>
-        <card number="1" name="Mentor of the Meek"/>
         <card number="9" name="Mountain"/>
         <card number="12" name="Plains"/>
         <card number="3" name="Rally the Righteous"/>
-        <card number="3" name="Skyknight Legionnaire"/>
+        <card number="4" name="Skyknight Legionnaire"/>
+        <card number="1" name="Storm Herd"/>
+        <card number="1" name="Sunblast Angel"/>
         <card number="2" name="Sunhome Enforcer"/>
         <card number="4" name="Terramorphic Expanse"/>
         <card number="2" name="To Arms!"/>
         <card number="4" name="Veteran Armorer"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Sideboard:"/>
-        <card number="1" name="Aggravated Assault"/>
         <card number="1" name="Agrus Kos, Wojek Veteran"/>
-        <card number="2" name="Assault Strobe"/>
-        <card number="1" name="Balefire Dragon"/>
-        <card number="1" name="Balefire Liege"/>
-        <card number="1" name="Basandra, Battle Seraph"/>
-        <card number="2" name="Breath of Life"/>
-        <card number="1" name="Brightflame"/>
-        <card number="2" name="Bull Cerodon"/>
+        <card number="1" name="Breath of Fury"/>
+        <card number="2" name="Brightflame"/>
+        <card number="3" name="Bull Cerodon"/>
         <card number="2" name="Fire at Will"/>
         <card number="1" name="Glory of Warfare"/>
-        <card number="1" name="Intimidation Bolt"/>
-        <card number="2" name="Lightning Helix"/>
-        <card number="1" name="Lightning Serpent"/>
-        <card number="1" name="Mentor of the Meek"/>
+        <card number="2" name="Mentor of the Meek"/>
         <card number="1" name="Nobilis of War"/>
         <card number="1" name="Rally the Righteous"/>
         <card number="2" name="Rise of the Hobgoblins"/>
         <card number="2" name="Scourge of the Nobilis"/>
-        <card number="1" name="Skyknight Legionnaire"/>
         <card number="1" name="Spitemare"/>
-        <card number="1" name="Storm Herd"/>
-        <card number="1" name="Sunblast Angel"/>
     </zone>
 </cockatrice_deck>
