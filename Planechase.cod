@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Bant"/>
+        <card number="1" name="Grixis"/>
+        <card number="1" name="Naya"/>
+        <card number="1" name="The Maelstrom"/>
+        <card number="1" name="Lethe Lake"/>
+        <card number="1" name="Pools of Becoming"/>
+        <card number="1" name="Academy at Tolaria West"/>
+        <card number="1" name="Isle of Vesuva"/>
+        <card number="1" name="Krosa"/>
+        <card number="1" name="Llanowar"/>
+        <card number="1" name="Otaria"/>
+        <card number="1" name="Shiv"/>
+        <card number="1" name="The Eon Fog"/>
+        <card number="1" name="Turri Island"/>
+        <card number="1" name="The Aether Flues"/>
+        <card number="1" name="Skybreen"/>
+        <card number="1" name="Minamo"/>
+        <card number="1" name="Sokenzan"/>
+        <card number="1" name="Mirrored Depths"/>
+        <card number="1" name="Tember City"/>
+        <card number="1" name="Goldmeadow"/>
+        <card number="1" name="The Great Forest"/>
+        <card number="1" name="Velis Vel"/>
+        <card number="1" name="Celestine Reef"/>
+        <card number="1" name="Cliffside Market"/>
+        <card number="1" name="Glimmervoid Basin"/>
+        <card number="1" name="Panopticon"/>
+        <card number="1" name="Fields of Summer"/>
+        <card number="1" name="Feeding Grounds"/>
+        <card number="1" name="The Fourth Sphere"/>
+        <card number="1" name="Horizon Boughs"/>
+        <card number="1" name="Sea of Sand"/>
+        <card number="1" name="Stronghold Furnace"/>
+        <card number="1" name="Izzet Steam Maze"/>
+        <card number="1" name="Undercity Reaches"/>
+        <card number="1" name="The Hippodrome"/>
+        <card number="1" name="Sanctum of Serra"/>
+        <card number="1" name="Eloren Wilds"/>
+        <card number="1" name="Raven's Run"/>
+        <card number="1" name="The Dark Barony"/>
+        <card number="1" name="Immersturm"/>
+        <card number="1" name="Naar Isle"/>
+        <card number="1" name="Murasa"/>
+        <card number="1" name="Tazeem"/>
+        <card number="1" name="Jund"/>
+        <card number="1" name="Lair of the Ashen Idol"/>
+        <card number="1" name="Edge of Malacol"/>
+        <card number="1" name="Windriddle Palaces"/>
+        <card number="1" name="Talon Gates"/>
+        <card number="1" name="Bloodhill Bastion"/>
+        <card number="1" name="Truga Jungle"/>
+        <card number="1" name="Grove of the Dreampods"/>
+        <card number="1" name="Gavony"/>
+        <card number="1" name="Kessig"/>
+        <card number="1" name="Nephalia"/>
+        <card number="1" name="Stensia"/>
+        <card number="1" name="Orochi Colony"/>
+        <card number="1" name="Takenuma"/>
+        <card number="1" name="Aretopolis"/>
+        <card number="1" name="Astral Arena"/>
+        <card number="1" name="The Zephyr Maze"/>
+        <card number="1" name="Glen Elendra"/>
+        <card number="1" name="Quicksilver Sea"/>
+        <card number="1" name="Kharasha Foothills"/>
+        <card number="1" name="Furnace Layer"/>
+        <card number="1" name="Norn's Dominion"/>
+        <card number="1" name="Onakke Catacomb"/>
+        <card number="1" name="Grand Ossuary"/>
+        <card number="1" name="Kilnspire District"/>
+        <card number="1" name="Orzhova"/>
+        <card number="1" name="Prahv"/>
+        <card number="1" name="Selesnya Loft Gardens"/>
+        <card number="1" name="Mount Keralia"/>
+        <card number="1" name="Trail of the Mage-Rings"/>
+        <card number="1" name="Stairs to Infinity"/>
+        <card number="1" name="Akoum"/>
+        <card number="1" name="Hedron Fields of Agadeem"/>
+        <card number="1" name="Agyrem"/>
+    </zone>
+</cockatrice_deck>
