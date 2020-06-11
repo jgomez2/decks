@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Ashenmoor Gouger"/>
+        <card number="1" name="Bituminous Blast"/>
+        <card number="1" name="Blazing Specter"/>
+        <card number="2" name="Blightning"/>
+        <card number="2" name="Blood Cultist"/>
+        <card number="1" name="Capricious Efreet"/>
+        <card number="1" name="Deathbringer Thoctar"/>
+        <card number="1" name="Deathgreeter"/>
+        <card number="1" name="Defiler of Souls"/>
+        <card number="2" name="Demigod of Revenge"/>
+        <card number="4" name="Evolving Wilds"/>
+        <card number="2" name="Goblin Deathraiders"/>
+        <card number="2" name="Hellhole Rats"/>
+        <card number="2" name="Hissing Iguanar"/>
+        <card number="1" name="Lyzolda, the Blood Witch"/>
+        <card number="10" name="Mountain"/>
+        <card number="1" name="Pain Magnification"/>
+        <card number="1" name="Rakdos the Defiler"/>
+        <card number="2" name="Singe-Mind Ogre"/>
+        <card number="2" name="Sootstoke Kindler"/>
+        <card number="1" name="Spiteflame Witch"/>
+        <card number="2" name="Stabbing Pain"/>
+        <card number="10" name="Swamp"/>
+        <card number="2" name="Terminate"/>
+        <card number="2" name="Typhoid Rats"/>
+        <card number="2" name="Wrecking Ball"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Sideboard:"/>
+        <card number="1" name="Ashenmoor Gouger"/>
+        <card number="2" name="Ashenmoor Liege"/>
+        <card number="2" name="Avatar of Discord"/>
+        <card number="1" name="Avatar of Slaughter"/>
+        <card number="1" name="Bituminous Blast"/>
+        <card number="3" name="Bloodchief Ascension"/>
+        <card number="1" name="Capricious Efreet"/>
+        <card number="2" name="Chaos Warp"/>
+        <card number="1" name="Deathbringer Thoctar"/>
+        <card number="2" name="Demigod of Revenge"/>
+        <card number="1" name="Demonic Tutor"/>
+        <card number="2" name="Din of the Fireherd"/>
+        <card number="1" name="Dragonmaster Outcast"/>
+        <card number="2" name="Grave Titan"/>
+        <card number="1" name="Heat Shimmer"/>
+        <card number="2" name="Kaervek the Merciless"/>
+        <card number="1" name="Malfegor"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="2" name="Onyx Mage"/>
+        <card number="2" name="Reanimate"/>
+        <card number="2" name="Rockslide Elemental"/>
+        <card number="2" name="Scavenger Drake"/>
+        <card number="1" name="Terminate"/>
+        <card number="1" name="Vampiric Dragon"/>
+        <card number="2" name="Vexing Devil"/>
+        <card number="1" name="Wrecking Ball"/>
+    </zone>
+</cockatrice_deck>
