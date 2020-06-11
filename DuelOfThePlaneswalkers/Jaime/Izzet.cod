@@ -7,7 +7,7 @@
         <card number="2" name="Arc Lightning"/>
         <card number="2" name="Breaking Point"/>
         <card number="3" name="Compulsive Research"/>
-        <card number="2" name="Conquering Manticore"/>
+        <card number="1" name="Conquering Manticore"/>
         <card number="1" name="Djinn of Wishes"/>
         <card number="2" name="Dominus of Fealty"/>
         <card number="2" name="Electrolyze"/>
@@ -38,6 +38,7 @@
         <card number="1" name="Beacon of Destruction"/>
         <card number="1" name="Breaking Point"/>
         <card number="1" name="Cerebral Vortex"/>
+        <card number="1" name="Conquering Manticore"/>
         <card number="1" name="Hoard-Smelter Dragon"/>
         <card number="1" name="Insurrection"/>
         <card number="1" name="Invoke the Firemind"/>
