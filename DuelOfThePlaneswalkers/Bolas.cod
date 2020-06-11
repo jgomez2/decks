@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Gem of Becoming"/>
+        <card number="4" name="Mox Jet"/>
+        <card number="4" name="Mox Ruby"/>
+        <card number="4" name="Mox Sapphire"/>
+        <card number="3" name="Augur of Bolas"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="2" name="Igneous Pouncer"/>
+        <card number="1" name="Inferno Titan"/>
+        <card number="2" name="Jhessian Zombies"/>
+        <card number="2" name="Control Magic"/>
+        <card number="3" name="Lightning Bolt"/>
+        <card number="2" name="Terminate"/>
+        <card number="3" name="Barter in Blood"/>
+        <card number="4" name="Compulsive Research"/>
+        <card number="2" name="Cruel Ultimatum"/>
+        <card number="2" name="Demonic Tutor"/>
+        <card number="1" name="Diabolic Revelation"/>
+        <card number="2" name="Diabolic Tutor"/>
+        <card number="1" name="Mind Shatter"/>
+        <card number="3" name="Pyroclasm"/>
+        <card number="5" name="Island"/>
+        <card number="3" name="Mountain"/>
+        <card number="7" name="Swamp"/>
+        <card number="4" name="Terramorphic Expanse"/>
+    </zone>
+    <zone name="side">
+        <card number="2" name="Brainbite"/>
+        <card number="1" name="Diabolic Edict"/>
+        <card number="1" name="Disciple of Bolas"/>
+        <card number="2" name="Gem of Becoming"/>
+        <card number="2" name="Mindclaw Shaman"/>
+        <card number="2" name="Slave of Bolas"/>
+    </zone>
+</cockatrice_deck>

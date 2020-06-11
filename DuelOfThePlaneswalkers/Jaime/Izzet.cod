@@ -32,7 +32,6 @@
         <card number="2" name="Thunder Strike"/>
         <card number="1" name="Time Warp"/>
         <card number="1" name="Volcanic Geyser"/>
-        <card number="2" name="Wee Dragonauts"/>
     </zone>
     <zone name="side">
         <card number="1" name="Arc Lightning"/>
@@ -56,6 +55,6 @@
         <card number="1" name="Time Warp"/>
         <card number="2" name="Volcanic Geyser"/>
         <card number="2" name="Wand of the Elements"/>
-        <card number="2" name="Wee Dragonauts"/>
+        <card number="4" name="Wee Dragonauts"/>
     </zone>
 </cockatrice_deck>
