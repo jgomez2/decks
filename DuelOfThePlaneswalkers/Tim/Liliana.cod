@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Blister Beetle"/>
+        <card number="2" name="Bloodhunter Bat"/>
+        <card number="1" name="Corrupt"/>
+        <card number="2" name="Crippling Blight"/>
+        <card number="2" name="Fume Spitter"/>
+        <card number="1" name="Innocent Blood"/>
+        <card number="2" name="Jet Medallion"/>
+        <card number="1" name="Last Kiss"/>
+        <card number="2" name="Liliana's Shade"/>
+        <card number="2" name="Liliana's Specter"/>
+        <card number="1" name="Mire's Toll"/>
+        <card number="3" name="Murder"/>
+        <card number="2" name="Public Execution"/>
+        <card number="1" name="Rise from the Grave"/>
+        <card number="1" name="Rune-Scarred Demon"/>
+        <card number="2" name="Sign in Blood"/>
+        <card number="25" name="Swamp"/>
+        <card number="1" name="Tendrils of Corruption"/>
+        <card number="1" name="Underworld Dreams"/>
+        <card number="1" name="Vampire Nighthawk"/>
+        <card number="2" name="Veilborn Ghoul"/>
+        <card number="2" name="Warpath Ghoul"/>
+        <card number="1" name="Xathrid Gorgon"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Avatar of Woe"/>
+        <card number="2" name="Befoul"/>
+        <card number="1" name="Diabolic Tutor"/>
+        <card number="1" name="Dread"/>
+        <card number="2" name="Dread Warlock"/>
+        <card number="2" name="Exsanguinate"/>
+        <card number="1" name="Grave Titan"/>
+        <card number="1" name="Griselbrand"/>
+        <card number="1" name="Halo Hunter"/>
+        <card number="1" name="Hellcarver Demon"/>
+        <card number="2" name="Icy Manipulator"/>
+        <card number="1" name="Incremental Blight"/>
+        <card number="1" name="Infest"/>
+        <card number="1" name="Innocent Blood"/>
+        <card number="2" name="Liliana's Shade"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Murder"/>
+        <card number="1" name="Mutilate"/>
+        <card number="2" name="Nantuko Shade"/>
+        <card number="1" name="Nekrataal"/>
+        <card number="2" name="Nested Ghoul"/>
+        <card number="2" name="Nightmare"/>
+        <card number="1" name="Nightmare Incursion"/>
+        <card number="1" name="Nightwing Shade"/>
+        <card number="1" name="Pestilence Demon"/>
+        <card number="1" name="Phage the Untouchable"/>
+        <card number="1" name="Phyrexian Obliterator"/>
+        <card number="1" name="Plague Wind"/>
+        <card number="2" name="Reiver Demon"/>
+        <card number="1" name="Rise from the Grave"/>
+        <card number="1" name="Underworld Dreams"/>
+    </zone>
+</cockatrice_deck>
