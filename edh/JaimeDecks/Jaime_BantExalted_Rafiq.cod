@@ -11,17 +11,17 @@
         <card number="1" name="Aven Squire"/>
         <card number="1" name="Azorius Chancery"/>
         <card number="1" name="Azorius Charm"/>
-        <card number="1" name="Bant Charm"/>
         <card number="1" name="Bant Sureblade"/>
         <card number="1" name="Battlegrace Angel"/>
         <card number="1" name="Behemoth Sledge"/>
+        <card number="1" name="Blighted Agent"/>
         <card number="1" name="Brainstorm"/>
         <card number="1" name="Brave the Elements"/>
         <card number="1" name="Breeding Pool"/>
         <card number="1" name="Cavern of Souls"/>
         <card number="1" name="Command Tower"/>
         <card number="1" name="Comparative Analysis"/>
-        <card number="1" name="Cryptic Command"/>
+        <card number="1" name="Crafty Pathmage"/>
         <card number="1" name="Curiosity"/>
         <card number="1" name="Dauntless Escort"/>
         <card number="1" name="Dawnray Archer"/>
@@ -48,6 +48,7 @@
         <card number="1" name="Lightning Greaves"/>
         <card number="1" name="Loxodon Warhammer"/>
         <card number="1" name="Mana Leak"/>
+        <card number="1" name="Meekstone"/>
         <card number="1" name="Misty Rainforest"/>
         <card number="1" name="Mul Daya Channelers"/>
         <card number="1" name="Noble Hierarch"/>
@@ -60,7 +61,6 @@
         <card number="1" name="Razorverge Thicket"/>
         <card number="1" name="Rebuff the Wicked"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Render Silent"/>
         <card number="1" name="Rhox Charger"/>
         <card number="1" name="Rhystic Study"/>
         <card number="1" name="Savannah"/>
