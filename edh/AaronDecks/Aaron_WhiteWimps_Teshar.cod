@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>White Wimps</deckname>
+    <comments>Commander: Teshar
+$100 Commander</comments>
+    <zone name="main">
+        <card number="1" name="Absolute Grace"/>
+        <card number="1" name="Absolute Law"/>
+        <card number="1" name="Anafenza, Kin-Tree Spirit"/>
+        <card number="1" name="Baird, Steward of Argive"/>
+        <card number="1" name="Boreas Charger"/>
+        <card number="1" name="Brigid, Hero of Kinsbaile"/>
+        <card number="1" name="Bygone Bishop"/>
+        <card number="1" name="Commander Eesha"/>
+        <card number="1" name="Crovax, Ascendant Hero"/>
+        <card number="1" name="Crusade"/>
+        <card number="1" name="Darien, King of Kjeldor"/>
+        <card number="1" name="Darksteel Mutation"/>
+        <card number="1" name="Dauntless Bodyguard"/>
+        <card number="1" name="Declaration in Stone"/>
+        <card number="1" name="Demotion"/>
+        <card number="1" name="Descend upon the Sinful"/>
+        <card number="1" name="Detainment Spell"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Dusk // Dawn"/>
+        <card number="1" name="Eight-and-a-Half-Tails"/>
+        <card number="1" name="Elspeth Conquers Death"/>
+        <card number="1" name="Emeria, the Sky Ruin"/>
+        <card number="1" name="Fell the Mighty"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Fumigate"/>
+        <card number="1" name="God-Eternal Oketra"/>
+        <card number="1" name="Gryff's Boon"/>
+        <card number="1" name="Hedron Archive"/>
+        <card number="1" name="High Ground"/>
+        <card number="1" name="Honor of the Pure"/>
+        <card number="1" name="Infiltration Lens"/>
+        <card number="1" name="Kataki, War's Wage"/>
+        <card number="1" name="Kirtar's Wrath"/>
+        <card number="1" name="Knight of the White Orchid"/>
+        <card number="1" name="Lieutenant Kirtar"/>
+        <card number="1" name="Luminarch Ascension"/>
+        <card number="1" name="Mageta the Lion"/>
+        <card number="1" name="Major Teroh"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Masako the Humorless"/>
+        <card number="1" name="Mass Calcify"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Mikaeus, the Lunarch"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Mistveil Plains"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Pearl Medallion"/>
+        <card number="35" name="Plains"/>
+        <card number="1" name="Rally the Ancestors"/>
+        <card number="1" name="Ranger of Eos"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Slaughter the Strong"/>
+        <card number="1" name="Solar Tide"/>
+        <card number="1" name="Soul Warden"/>
+        <card number="1" name="Surveyor's Scope"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Taranika, Akroan Veteran"/>
+        <card number="1" name="Teshar, Ancestor's Apostle"/>
+        <card number="1" name="Thraben Inspector"/>
+        <card number="1" name="True Conviction"/>
+        <card number="1" name="Victory's Herald"/>
+        <card number="1" name="Weathered Wayfarer"/>
+        <card number="1" name="Windborn Muse"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="The Wanderer"/>
+        <card number="1" name="Necropede"/>
+    </zone>
+</cockatrice_deck>
