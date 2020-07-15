@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Aethergeode Miner"/>
+        <card number="2" name="Aid from the Cowl"/>
+        <card number="3" name="Alley Evasion"/>
+        <card number="2" name="Conviction"/>
+        <card number="1" name="Deadeye Harpooner"/>
+        <card number="2" name="Endless Sands"/>
+        <card number="13" name="Forest"/>
+        <card number="2" name="Hidden Herbalists"/>
+        <card number="3" name="Lifecraft Cavalry"/>
+        <card number="4" name="Narnam Renegade"/>
+        <card number="3" name="Nature's Way"/>
+        <card number="4" name="Ninth Bridge Patrol"/>
+        <card number="7" name="Plains"/>
+        <card number="3" name="Renegade Rallier"/>
+        <card number="4" name="Scrounging Bandar"/>
+        <card number="3" name="Unbridled Growth"/>
+    </zone>
+</cockatrice_deck>
