@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Birthing Pod"/>
+        <card number="1" name="Champion of Rhonas"/>
+        <card number="1" name="Entomb"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Eureka"/>
+        <card number="1" name="Exhume"/>
+        <card number="1" name="Fauna Shaman"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Gutterbones"/>
+        <card number="1" name="Liliana's Triumph"/>
+        <card number="1" name="Liliana, Heretical Healer"/>
+        <card number="1" name="Maze of Ith"/>
+        <card number="1" name="Mindwrack Demon"/>
+        <card number="1" name="Necromancy"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Rankle, Master of Pranks"/>
+        <card number="1" name="Reanimate"/>
+        <card number="1" name="Shallow Grave"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Sinkhole"/>
+        <card number="1" name="Snuff Out"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Survival of the Fittest"/>
+        <card number="11" name="Swamp"/>
+        <card number="1" name="Thoughtseize"/>
+        <card number="1" name="Tombstalker"/>
+        <card number="1" name="Victimize"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Languish"/>
+        <card number="1" name="Smokestack"/>
+    </zone>
+</cockatrice_deck>
