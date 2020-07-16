@@ -1,0 +1,51 @@
+//Main
+1 Black Lotus
+1 Cascading Cataracts
+1 City of Brass
+3 Forest
+1 Hinterland Harbor
+4 Island
+1 Shelldock Isle
+4 Swamp
+1 Taiga
+1 Fyndhorn Elves
+1 Llanowar Elves
+1 Bloom Tender
+1 Channel
+1 Counterspell
+1 Hydroid Krasis
+1 Impulse
+1 Phyrexian Revoker
+1 Sakura-Tribe Elder
+1 Smuggler's Copter
+1 Sylvan Caryatid
+1 Ashiok, Nightmare Weaver
+1 Coalition Relic
+1 Rotting Regisaur
+1 Toxic Deluge
+1 Yuriko, the Tiger's Shadow
+1 Karn, Scion of Urza
+1 Lodestone Golem
+1 Fallen Shinobi
+1 Golos, Tireless Pilgrim
+1 Riftwing Cloudskate
+1 Sundering Titan
+1 Ulamog, the Infinite Gyre
+
+//Maybeboard
+1 Blast Zone
+1 Lavaclaw Reaches
+1 Silent Clearing
+1 Tolarian Academy
+1 Explore
+1 Grapeshot
+1 Izzet Signet
+1 Kataki, War's Wage
+1 Selesnya Signet
+1 Smallpox
+1 Wrenn and Six
+1 Blade Splicer
+1 Council's Judgment
+1 Worn Powerstone
+1 Talrand, Sky Summoner
+1 Zealous Conscripts
