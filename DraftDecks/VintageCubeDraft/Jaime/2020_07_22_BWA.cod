@@ -9,7 +9,6 @@
         <card number="1" name="Bloodghast"/>
         <card number="1" name="Cataclysm"/>
         <card number="1" name="Concealed Courtyard"/>
-        <card number="1" name="Corpse Dance"/>
         <card number="1" name="Dark Confidant"/>
         <card number="1" name="Dark Ritual"/>
         <card number="1" name="Gutterbones"/>
@@ -41,5 +40,17 @@
         <card number="1" name="Ultimate Price"/>
         <card number="1" name="Winds of Abandon"/>
         <card number="1" name="Winter Orb"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Burning of Xinye"/>
+        <card number="1" name="Corpse Dance"/>
+        <card number="2" name="Goblin Engineer"/>
+        <card number="1" name="Horizon Canopy"/>
+        <card number="1" name="Iona, Shield of Emeria"/>
+        <card number="1" name="Polukranos, World Eater"/>
+        <card number="1" name="Razorverge Thicket"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Vexing Devil"/>
     </zone>
 </cockatrice_deck>
