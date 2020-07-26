@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Chief of the Foundry"/>
+        <card number="2" name="Consulate Dreadnought"/>
+        <card number="4" name="Cultivator's Caravan"/>
+        <card number="3" name="Depala, Pilot Exemplar"/>
+        <card number="4" name="Fleetwheel Cruiser"/>
+        <card number="3" name="Foundry Inspector"/>
+        <card number="3" name="Gearshift Ace"/>
+        <card number="10" name="Mountain"/>
+        <card number="4" name="Peacewalker Colossus"/>
+        <card number="1" name="Pia Nalaar"/>
+        <card number="9" name="Plains"/>
+        <card number="2" name="Siege Modification"/>
+        <card number="3" name="Sram, Senior Edificer"/>
+        <card number="1" name="Start Your Engines"/>
+        <card number="3" name="Stone Quarry"/>
+        <card number="3" name="Toolcraft Exemplar"/>
+        <card number="3" name="Veteran Motorist"/>
+    </zone>
+</cockatrice_deck>
