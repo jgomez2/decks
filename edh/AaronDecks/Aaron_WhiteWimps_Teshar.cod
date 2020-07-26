@@ -13,7 +13,6 @@ $100 Commander</comments>
         <card number="1" name="Bygone Bishop"/>
         <card number="1" name="Commander Eesha"/>
         <card number="1" name="Crovax, Ascendant Hero"/>
-        <card number="1" name="Crusade"/>
         <card number="1" name="Darien, King of Kjeldor"/>
         <card number="1" name="Darksteel Mutation"/>
         <card number="1" name="Dauntless Bodyguard"/>
@@ -39,7 +38,6 @@ $100 Commander</comments>
         <card number="1" name="Kirtar's Wrath"/>
         <card number="1" name="Knight of the White Orchid"/>
         <card number="1" name="Lieutenant Kirtar"/>
-        <card number="1" name="Luminarch Ascension"/>
         <card number="1" name="Mageta the Lion"/>
         <card number="1" name="Major Teroh"/>
         <card number="1" name="Marble Diamond"/>
@@ -68,7 +66,17 @@ $100 Commander</comments>
         <card number="1" name="Weathered Wayfarer"/>
         <card number="1" name="Windborn Muse"/>
         <card number="1" name="Worn Powerstone"/>
-        <card number="1" name="The Wanderer"/>
         <card number="1" name="Necropede"/>
+        <card number="1" name="Always Watching"/>
+        <card number="1" name="Children of Korlis"/>
+        <card number="1" name="Kor Cartographer"/>
+        <card number="1" name="Spear of Heliod"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Crusade"/>
+        <card number="1" name="Luminarch Ascension"/>
+        <card number="1" name="The Wanderer"/>
+        <card number="1" name="Divine Sacrament"/>
+        <card number="1" name="Glorious Anthem"/>
     </zone>
 </cockatrice_deck>
