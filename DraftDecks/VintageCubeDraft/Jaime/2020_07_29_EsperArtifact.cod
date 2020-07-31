@@ -24,7 +24,6 @@
         <card number="1" name="Phyrexian Revoker"/>
         <card number="1" name="Plains"/>
         <card number="1" name="Rishadan Port"/>
-        <card number="1" name="Silent Clearing"/>
         <card number="1" name="Snuff Out"/>
         <card number="1" name="Sorcerous Spyglass"/>
         <card number="1" name="Sower of Temptation"/>
@@ -35,10 +34,24 @@
         <card number="1" name="Thing in the Ice"/>
         <card number="1" name="Thraben Inspector"/>
         <card number="1" name="Tolarian Academy"/>
-        <card number="1" name="Turnabout"/>
         <card number="1" name="Windswept Heath"/>
         <card number="1" name="Winter Orb"/>
         <card number="1" name="Worn Powerstone"/>
         <card number="1" name="Yawgmoth's Will"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Burst Lightning"/>
+        <card number="1" name="Containment Priest"/>
+        <card number="1" name="Hero of Bladehold"/>
+        <card number="1" name="Lion's Eye Diamond"/>
+        <card number="1" name="Memory Jar"/>
+        <card number="1" name="Monastery Mentor"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+        <card number="1" name="Shrine of Burning Rage"/>
+        <card number="1" name="Silent Clearing"/>
+        <card number="1" name="Smokestack"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Turnabout"/>
+        <card number="1" name="Zurgo Bellstriker"/>
     </zone>
 </cockatrice_deck>
