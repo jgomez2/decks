@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ancestral Recall"/>
+        <card number="1" name="Ashiok, Nightmare Weaver"/>
+        <card number="1" name="Botanical Sanctum"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Coalition Relic"/>
+        <card number="1" name="Coercive Portal"/>
+        <card number="1" name="Darkslick Shores"/>
+        <card number="1" name="Devoted Druid"/>
+        <card number="1" name="Everflowing Chalice"/>
+        <card number="5" name="Forest"/>
+        <card number="1" name="Hydroid Krasis"/>
+        <card number="1" name="Impulse"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Inkwell Leviathan"/>
+        <card number="4" name="Island"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Metalworker"/>
+        <card number="1" name="Mimic Vat"/>
+        <card number="1" name="Mishra's Workshop"/>
+        <card number="1" name="Once Upon a Time"/>
+        <card number="2" name="Swamp"/>
+        <card number="1" name="Talisman of Curiosity"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Tolarian Academy"/>
+        <card number="1" name="Tooth and Nail"/>
+        <card number="1" name="Toxic Deluge"/>
+        <card number="1" name="Upheaval"/>
+        <card number="1" name="Uro, Titan of Nature's Wrath"/>
+        <card number="1" name="Urza, Lord High Artificer"/>
+        <card number="1" name="Woodland Cemetery"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Council's Judgment"/>
+        <card number="1" name="Emry, Lurker of the Loch"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Ethersworn Canonist"/>
+        <card number="1" name="Faith's Fetters"/>
+        <card number="1" name="Horizon Canopy"/>
+        <card number="1" name="Mana Flare"/>
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="1" name="Saheeli, the Gifted"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Taiga"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Trinisphere"/>
+        <card number="1" name="Turnabout"/>
+        <card number="1" name="Wall of Roots"/>
+        <card number="1" name="Yuriko, the Tiger's Shadow"/>
+    </zone>
+</cockatrice_deck>
