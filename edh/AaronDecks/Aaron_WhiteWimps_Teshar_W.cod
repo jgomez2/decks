@@ -78,5 +78,14 @@ $100 Commander</comments>
         <card number="1" name="The Wanderer"/>
         <card number="1" name="Divine Sacrament"/>
         <card number="1" name="Glorious Anthem"/>
+<<<<<<< HEAD
+        <card number="1" name="Oketra's Monument"/>
+        <card number="1" name="Leave No Trace"/>
+        <card number="1" name="Giver of Runes"/>
+        <card number="1" name="Suncleanser"/>
+        <card number="1" name="Odric, Master Tactician"/>
+        <card number="1" name="Benalish Marshal"/>
+=======
+>>>>>>> cf9d02b7113be8b9176e371c23ccdcddb49f79c1
     </zone>
 </cockatrice_deck>
