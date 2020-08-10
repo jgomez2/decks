@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Animate Dead"/>
+        <card number="1" name="Blackcleave Cliffs"/>
+        <card number="1" name="Bloodghast"/>
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Cabal Ritual"/>
+        <card number="1" name="Crypt Rats"/>
+        <card number="1" name="Desperate Ritual"/>
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Embereth Shieldbreaker"/>
+        <card number="1" name="Exhume"/>
+        <card number="1" name="Fatal Push"/>
+        <card number="1" name="Fragmentize"/>
+        <card number="1" name="Garruk, Cursed Huntsman"/>
+        <card number="1" name="Glorybringer"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Goblin Welder"/>
+        <card number="1" name="Green Sun's Zenith"/>
+        <card number="1" name="Gutterbones"/>
+        <card number="1" name="Heartless Act"/>
+        <card number="1" name="Imperial Seal"/>
+        <card number="1" name="Kitesail Freebooter"/>
+        <card number="1" name="Languish"/>
+        <card number="1" name="Liliana's Triumph"/>
+        <card number="1" name="Living Death"/>
+        <card number="1" name="Mesmeric Fiend"/>
+        <card number="1" name="Monastery Swiftspear"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Nahiri, the Harbinger"/>
+        <card number="1" name="Night's Whisper"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="1" name="Palinchron"/>
+        <card number="1" name="Polukranos, Unchained"/>
+        <card number="1" name="Rankle, Master of Pranks"/>
+        <card number="1" name="Ravages of War"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Smallpox"/>
+        <card number="6" name="Swamp"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Tombstalker"/>
+        <card number="1" name="Vexing Devil"/>
+        <card number="1" name="Vial Smasher the Fierce"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Wasteland"/>
+        <card number="1" name="Wildfire"/>
+        <card number="1" name="Young Pyromancer"/>
+    </zone>
+</cockatrice_deck>

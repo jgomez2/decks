@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>khowpow</deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="Grim Lavamancer"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Coercive Portal"/>
+        <card number="1" name="Blackcleave Cliffs"/>
+        <card number="1" name="Grove of the Burnwillows"/>
+        <card number="1" name="Raging Ravine"/>
+        <card number="1" name="Sorcerous Spyglass"/>
+        <card number="1" name="Winter Orb"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Mishra's Factory"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Nurturing Peatland"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Woodland Cemetery"/>
+        <card number="1" name="Avenger of Zendikar"/>
+        <card number="1" name="Polukranos, World Eater"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Stonecoil Serpent"/>
+        <card number="1" name="Gilded Goose"/>
+        <card number="1" name="Wall of Roots"/>
+        <card number="1" name="Bloodsoaked Champion"/>
+        <card number="1" name="Spirit of the Labyrinth"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Yawgmoth, Thran Physician"/>
+        <card number="1" name="Crystal Shard"/>
+        <card number="1" name="Master of the Wild Hunt"/>
+        <card number="1" name="Oath of Druids"/>
+        <card number="1" name="Courser of Kruphix"/>
+        <card number="1" name="Crucible of Worlds"/>
+        <card number="1" name="Garruk, Cursed Huntsman"/>
+        <card number="1" name="Craterhoof Behemoth"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="10" name="Forest"/>
+        <card number="6" name="Swamp"/>
+        <card number="4" name="Plains"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Nature's Claim"/>
+        <card number="1" name="Overgrown Tomb"/>
+        <card number="2" name="Botanical Sanctum"/>
+        <card number="1" name="Scavenging Ooze"/>
+        <card number="1" name="Garruk Wildspeaker"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Rampaging Baloths"/>
+        <card number="1" name="Biogenic Ooze"/>
+    </zone>
+</cockatrice_deck>
