@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ball Lightning"/>
+        <card number="1" name="Black Lotus"/>
+        <card number="1" name="Blightning"/>
+        <card number="1" name="Bloodghast"/>
+        <card number="1" name="Coercive Portal"/>
+        <card number="1" name="Dark Ritual"/>
+        <card number="1" name="Diregraf Ghoul"/>
+        <card number="1" name="Embereth Shieldbreaker"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Go for the Throat"/>
+        <card number="1" name="Gonti, Lord of Luxury"/>
+        <card number="1" name="Gutterbones"/>
+        <card number="1" name="Hero's Downfall"/>
+        <card number="1" name="Hypnotic Specter"/>
+        <card number="1" name="Lotus Bloom"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="7" name="Mountain"/>
+        <card number="1" name="Phyrexian Obliterator"/>
+        <card number="1" name="Rise of the Dark Realms"/>
+        <card number="1" name="Rotting Regisaur"/>
+        <card number="1" name="Sin Prodder"/>
+        <card number="1" name="Storm's Wrath"/>
+        <card number="10" name="Swamp"/>
+        <card number="1" name="Thorn of the Black Rose"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Torbran, Thane of Red Fell"/>
+        <card number="1" name="Torgaar, Famine Incarnate"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Umezawa's Jitte"/>
+        <card number="1" name="Viscera Seer"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Black Vise"/>
+        <card number="1" name="Burning of Xinye"/>
+        <card number="1" name="Cabal Ritual"/>
+        <card number="1" name="Carnifex Demon"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Crypt Ghast"/>
+        <card number="1" name="Demon of Death's Gate"/>
+        <card number="1" name="Dismember"/>
+        <card number="1" name="Fiery Islet"/>
+        <card number="1" name="Gaea's Blessing"/>
+        <card number="1" name="Goblin Engineer"/>
+        <card number="1" name="Inquisitor's Flail"/>
+        <card number="1" name="Judith, the Scourge Diva"/>
+        <card number="1" name="Keldon Firebombers"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Liliana's Triumph"/>
+        <card number="1" name="Magus of the Moon"/>
+        <card number="1" name="Massacre Wurm"/>
+        <card number="1" name="Moat"/>
+        <card number="1" name="Natural Order"/>
+        <card number="1" name="Ophiomancer"/>
+        <card number="1" name="Parallax Wave"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Reverberate"/>
+        <card number="1" name="Sanctum Prelate"/>
+        <card number="1" name="Serra Avenger"/>
+        <card number="1" name="Signal Pest"/>
+        <card number="1" name="Smallpox"/>
+        <card number="1" name="Smokestack"/>
+        <card number="1" name="Snuff Out"/>
+        <card number="1" name="Subterranean Tremors"/>
+        <card number="1" name="Toxic Deluge"/>
+    </zone>
+</cockatrice_deck>
