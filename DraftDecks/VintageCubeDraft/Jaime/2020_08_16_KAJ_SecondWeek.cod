@@ -18,7 +18,6 @@
         <card number="1" name="Kodama's Reach"/>
         <card number="1" name="Massacre Wurm"/>
         <card number="1" name="Mox Jet"/>
-        <card number="1" name="Murderous Rider"/>
         <card number="1" name="Nurturing Peatland"/>
         <card number="1" name="Pernicious Deed"/>
         <card number="1" name="Putrefy"/>
@@ -34,6 +33,7 @@
         <card number="1" name="Wall of Roots"/>
         <card number="1" name="Wild Mongrel"/>
         <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Murderous Rider // Swift End"/>
     </zone>
     <zone name="side">
         <card number="1" name="Birthing Pod"/>
