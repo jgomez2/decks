@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Choking Tethers"/>
+        <card number="1" name="Pondering Mage"/>
+        <card number="1" name="Man-o'-War"/>
+        <card number="1" name="Prohibit"/>
+        <card number="1" name="Future Sight"/>
+        <card number="1" name="Venomous Changeling"/>
+        <card number="1" name="Sadistic Obsession"/>
+        <card number="1" name="Shatter Assumptions"/>
+        <card number="1" name="Fallen Shinobi"/>
+        <card number="1" name="Ninja of the New Moon"/>
+        <card number="1" name="First-Sphere Gargantua"/>
+        <card number="1" name="Diabolic Edict"/>
+        <card number="1" name="Defile"/>
+        <card number="1" name="Graveshifter"/>
+        <card number="1" name="Changeling Outcast"/>
+        <card number="1" name="Unearth"/>
+        <card number="1" name="Putrid Goblin"/>
+        <card number="1" name="Bladeback Sliver"/>
+        <card number="1" name="Pyrophobia"/>
+        <card number="1" name="Munitions Expert"/>
+        <card number="1" name="Cleaving Sliver"/>
+        <card number="1" name="Spiteful Sliver"/>
+        <card number="1" name="Viashino Sandsprinter"/>
+        <card number="1" name="Goblin Champion"/>
+        <card number="1" name="Bogardan Dragonheart"/>
+        <card number="6" name="Mountain"/>
+        <card number="5" name="Swamp"/>
+        <card number="7" name="Island"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Reprobation"/>
+        <card number="1" name="Face of Divinity"/>
+        <card number="1" name="Irregular Cohort"/>
+        <card number="1" name="Trustworthy Scout"/>
+        <card number="1" name="Impostor of the Sixth Pride"/>
+        <card number="1" name="Rhox Veteran"/>
+        <card number="1" name="Fountain of Ichor"/>
+        <card number="1" name="Birthing Boughs"/>
+        <card number="1" name="Cleaving Sliver"/>
+        <card number="1" name="Spiteful Sliver"/>
+        <card number="1" name="Bladeback Sliver"/>
+        <card number="1" name="Viashino Sandsprinter"/>
+        <card number="1" name="Pyrophobia"/>
+        <card number="1" name="Bogardan Dragonheart"/>
+        <card number="1" name="Igneous Elemental"/>
+        <card number="2" name="Reckless Charge"/>
+        <card number="1" name="Quakefoot Cyclops"/>
+        <card number="1" name="Ore-Scale Guardian"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Winding Way"/>
+        <card number="1" name="Rime Tender"/>
+        <card number="1" name="Bellowing Elk"/>
+        <card number="1" name="Spore Frog"/>
+        <card number="1" name="Trumpeting Herd"/>
+        <card number="6" name="Forest"/>
+        <card number="8" name="Mountain"/>
+        <card number="5" name="Plains"/>
+    </zone>
+    <zone name="side">
+        <card number="5" name="Forest"/>
+    </zone>
+</cockatrice_deck>
