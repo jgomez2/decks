@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Beast Within"/>
+        <card number="1" name="Champion of Rhonas"/>
+        <card number="1" name="Eureka"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Flametongue Kavu"/>
+        <card number="6" name="Forest"/>
+        <card number="1" name="Gaea's Blessing"/>
+        <card number="1" name="Glory"/>
+        <card number="1" name="Iona, Shield of Emeria"/>
+        <card number="1" name="Joraga Treespeaker"/>
+        <card number="1" name="Karakas"/>
+        <card number="1" name="Kozilek, Butcher of Truth"/>
+        <card number="1" name="Lightning Helix"/>
+        <card number="1" name="Lightning Strike"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Magus of the Disk"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="4" name="Mountain"/>
+        <card number="1" name="Mox Emerald"/>
+        <card number="1" name="Noble Hierarch"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Powerstone Minefield"/>
+        <card number="1" name="Qasali Pridemage"/>
+        <card number="1" name="Ruric Thar, the Unbowed"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Stomping Ground"/>
+        <card number="1" name="Sword of the Animist"/>
+        <card number="1" name="Tarmogoyf"/>
+        <card number="1" name="Tormenting Voice"/>
+        <card number="1" name="Wheel of Fortune"/>
+        <card number="1" name="Zealous Conscripts"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Chancellor of the Annex"/>
+        <card number="1" name="Gaddock Teeg"/>
+        <card number="1" name="Heraldic Banner"/>
+        <card number="1" name="Phyrexian Revoker"/>
+        <card number="1" name="Shalai, Voice of Plenty"/>
+        <card number="1" name="Spellskite"/>
+        <card number="1" name="Sundering Titan"/>
+        <card number="1" name="Woodfall Primus"/>
+    </zone>
+</cockatrice_deck>
