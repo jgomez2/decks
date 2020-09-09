@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Academy Rector"/>
+        <card number="1" name="Attunement"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Chart a Course"/>
+        <card number="1" name="Eidolon of Obstruction"/>
+        <card number="1" name="Energy Field"/>
+        <card number="1" name="Enlightened Tutor"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Fires of Invention"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Gush"/>
+        <card number="4" name="Island"/>
+        <card number="1" name="Karakas"/>
+        <card number="1" name="Land Tax"/>
+        <card number="1" name="Magmatic Insight"/>
+        <card number="1" name="Magus of the Wheel"/>
+        <card number="6" name="Mountain"/>
+        <card number="1" name="Oblivion Ring"/>
+        <card number="1" name="Opalescence"/>
+        <card number="1" name="Parallax Wave"/>
+        <card number="5" name="Plains"/>
+        <card number="1" name="Replenish"/>
+        <card number="1" name="Signal Pest"/>
+        <card number="1" name="Smoke"/>
+        <card number="1" name="Strip Mine"/>
+        <card number="1" name="Sulfuric Vortex"/>
+        <card number="1" name="Thirst for Knowledge"/>
+        <card number="1" name="Thrill of Possibility"/>
+        <card number="1" name="Tundra"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="1" name="Wheel of Fortune"/>
+    </zone>
+</cockatrice_deck>
