@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Dragonskull Summit"/>
+        <card number="1" name="Banefire"/>
+        <card number="1" name="Custodi Lich"/>
+        <card number="1" name="Worn Powerstone"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Flametongue Kavu"/>
+        <card number="1" name="Smuggler's Copter"/>
+        <card number="1" name="Legion Warboss"/>
+        <card number="1" name="Glorybringer"/>
+        <card number="1" name="Mox Ruby"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Song of the Dryads"/>
+        <card number="1" name="Bloodghast"/>
+        <card number="1" name="Heartbeat of Spring"/>
+        <card number="1" name="Rootbound Crag"/>
+        <card number="1" name="Talisman of Indulgence"/>
+        <card number="1" name="Ruric Thar, the Unbowed"/>
+        <card number="1" name="Smallpox"/>
+        <card number="1" name="Rotting Regisaur"/>
+        <card number="1" name="Incubation Druid"/>
+        <card number="1" name="Goblin Rabblemaster"/>
+        <card number="1" name="Wheel of Fortune"/>
+        <card number="1" name="Goblin Guide"/>
+        <card number="1" name="Mox Jet"/>
+        <card number="1" name="Zurgo Bellstriker"/>
+        <card number="1" name="Burst Lightning"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Blackcleave Cliffs"/>
+        <card number="1" name="Siege-Gang Commander"/>
+        <card number="1" name="Hellrider"/>
+        <card number="1" name="Earthcraft"/>
+        <card number="1" name="Vexing Devil"/>
+        <card number="1" name="Hazoret the Fervent"/>
+        <card number="1" name="Hymn to Tourach"/>
+        <card number="1" name="Sin Prodder"/>
+        <card number="1" name="Oracle of Mul Daya"/>
+	<card number="5" name="Swamp"/>
+	<card number="5" name="Mountain"/>
+	<card number="5" name="Forest"/>
+        <card number="1" name="Dryad of the Ilysian Grove"/>
+    </zone>
+    <zone name="sideboard">
+      <card number="1" name="Regal Behemoth"/>
+      <card number="1" name="Magus of the Moon"/>
+      <card number="1" name="Selesnya Signet"/>
+      <card number="1" name="Goblin Engineer"/>
+      <card number="1" name="Burning of Xinye"/>
+      <card number="1" name="Fiend Artisan"/>
+      <card number="1" name="Fires of Invention"/>
+      <card number="1" name="Eureka"/>
+    </zone>
+</cockatrice_deck>

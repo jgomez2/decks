@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Ancestral Vision"/>
+        <card number="1" name="Ancient Tomb"/>
+        <card number="1" name="Azusa, Lost but Seeking"/>
+        <card number="1" name="Basking Rootwalla"/>
+        <card number="1" name="Blastoderm"/>
+        <card number="1" name="Brainstorm"/>
+        <card number="1" name="Caustic Caterpillar"/>
+        <card number="1" name="Cloudthresher"/>
+        <card number="1" name="Coercive Portal"/>
+        <card number="1" name="Daze"/>
+        <card number="1" name="Dryad Arbor"/>
+        <card number="7" name="Forest"/>
+        <card number="1" name="Frantic Search"/>
+        <card number="1" name="Gaea's Touch"/>
+        <card number="1" name="Genesis"/>
+        <card number="4" name="Island"/>
+        <card number="1" name="Jace, Memory Adept"/>
+        <card number="1" name="Knight of the Reliquary"/>
+        <card number="1" name="Llanowar Empath"/>
+        <card number="1" name="Lotus Bloom"/>
+        <card number="1" name="Lotus Cobra"/>
+        <card number="1" name="Magus of the Disk"/>
+        <card number="1" name="Mental Note"/>
+        <card number="1" name="Myr Retriever"/>
+        <card number="3" name="Plains"/>
+        <card number="1" name="Qasali Pridemage"/>
+        <card number="1" name="Reclamation Sage"/>
+        <card number="1" name="Selesnya Charm"/>
+        <card number="1" name="Spell Pierce"/>
+        <card number="1" name="Standstill"/>
+        <card number="1" name="Tropical Island"/>
+        <card number="1" name="Web of Inertia"/>
+        <card number="1" name="Wild Mongrel"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Bedevil"/>
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Decimate"/>
+        <card number="1" name="Garruk, Cursed Huntsman"/>
+        <card number="1" name="Gruul Charm"/>
+        <card number="1" name="Jund Charm"/>
+        <card number="1" name="Naya Charm"/>
+        <card number="1" name="Ramunap Excavator"/>
+        <card number="1" name="Regrowth"/>
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="1" name="Ruric Thar, the Unbowed"/>
+        <card number="1" name="Savai Triome"/>
+        <card number="1" name="Storm's Wrath"/>
+        <card number="1" name="Temur Charm"/>
+        <card number="1" name="Tormenting Voice"/>
+    </zone>
+</cockatrice_deck>
