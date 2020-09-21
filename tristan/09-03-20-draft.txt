@@ -1,0 +1,46 @@
+1 Nature's Claim
+1 Daze
+1 Hinterland Harbor
+1 Creeping Tar Pit
+1 Coercive Portal
+1 Seething Song
+1 Smallpox
+1 Inferno Titan
+1 Yuriko, the Tiger's Shadow
+1 Mana Flare
+1 Daretti, Ingenious Iconoclast
+1 Dark Confidant
+1 Volcanic Island
+1 Tendrils of Agony
+1 Coalition Relic
+1 Kataki, War's Wage
+1 Blackcleave Cliffs
+1 Scrubland
+1 Fiery Islet
+1 Ophiomancer
+1 Darkslick Shores
+1 Bloodstained Mire
+1 Gush
+1 Goblin Cratermaker
+1 Cabal Ritual
+1 Mystic Confluence
+1 Kolaghan's Command
+1 Karn Liberated
+1 Dack Fayden
+1 Yawgmoth's Will
+1 Goblin Engineer
+1 Porcelain Legionnaire
+1 Grapeshot
+1 Hymn to Tourach
+1 Liliana's Triumph
+1 Narset, Parter of Veils
+1 Phyrexian Revoker
+1 Thing in the Ice
+1 Wheel of Fortune
+1 Cryptic Command
+1 Underground Sea
+1 Dig Through Time
+1 Dark Ritual
+1 Frantic Search
+1 Timetwister
+
