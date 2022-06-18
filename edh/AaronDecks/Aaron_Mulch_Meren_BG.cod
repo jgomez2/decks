@@ -2,85 +2,6 @@
 <cockatrice_deck version="1">
     <deckname></deckname>
     <comments></comments>
-    <zone name="main">
-        <card number="1" name="Acidic Slime"/>
-        <card number="1" name="Barter in Blood"/>
-        <card number="1" name="Blood Artist"/>
-        <card number="1" name="Butcher of Malakir"/>
-        <card number="1" name="Caustic Caterpillar"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Diabolic Edict"/>
-        <card number="1" name="Eternal Witness"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Fleshbag Marauder"/>
-        <card number="12" name="Forest"/>
-        <card number="1" name="Golgari Guildgate"/>
-        <card number="1" name="Golgari Rot Farm"/>
-        <card number="1" name="Golgari Signet"/>
-        <card number="1" name="Grave Pact"/>
-        <card number="1" name="Gray Merchant of Asphodel"/>
-        <card number="1" name="Grim Backwoods"/>
-        <card number="1" name="Harvester of Souls"/>
-        <card number="1" name="High Market"/>
-        <card number="1" name="Indrik Stomphowler"/>
-        <card number="1" name="Innocent Blood"/>
-        <card number="1" name="Jungle Hollow"/>
-        <card number="1" name="Kokusho, the Evening Star"/>
-        <card number="1" name="Merciless Executioner"/>
-        <card number="1" name="Meren of Clan Nel Toth"/>
-        <card number="1" name="Mulch"/>
-        <card number="1" name="Nevinyrral's Disk"/>
-        <card number="1" name="Pernicious Deed"/>
-        <card number="1" name="Pestilence"/>
-        <card number="1" name="Phyrexian Rager"/>
-        <card number="1" name="Polluted Mire"/>
-        <card number="1" name="Puppeteer Clique"/>
-        <card number="1" name="Putrefy"/>
-        <card number="1" name="Sakura-Tribe Elder"/>
-        <card number="1" name="Satyr Wayfinder"/>
-        <card number="1" name="Sepulchral Primordial"/>
-        <card number="1" name="Shriekmaw"/>
-        <card number="1" name="Skullclamp"/>
-        <card number="1" name="Sol Ring"/>
-        <card number="13" name="Swamp"/>
-        <card number="1" name="Tainted Wood"/>
-        <card number="1" name="Terastodon"/>
-        <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Thief of Blood"/>
-        <card number="1" name="Tribute to the Wild"/>
-        <card number="1" name="Vampiric Rites"/>
-        <card number="1" name="Victimize"/>
-        <card number="1" name="Viscera Seer"/>
-        <card number="1" name="Wall of Blossoms"/>
-        <card number="1" name="Wood Elves"/>
-        <card number="1" name="Disciple of Bolas"/>
-        <card number="1" name="Necroplasm"/>
-        <card number="1" name="Pestilence Demon"/>
-        <card number="1" name="Dictate of Erebos"/>
-        <card number="1" name="Night of Souls' Betrayal"/>
-        <card number="1" name="Virulent Plague"/>
-        <card number="1" name="Leechridden Swamp"/>
-        <card number="1" name="Sheoldred, Whispering One"/>
-        <card number="1" name="Viridian Zealot"/>
-        <card number="1" name="Barrier of Bones"/>
-        <card number="1" name="Glowspore Shaman"/>
-        <card number="1" name="Burglar Rat"/>
-        <card number="1" name="Plaguecrafter"/>
-        <card number="1" name="Golgari Findbroker"/>
-        <card number="1" name="Lotleth Giant"/>
-        <card number="1" name="Assassin's Trophy"/>
-        <card number="1" name="Golgari Locket"/>
-        <card number="1" name="Corpse Connoisseur"/>
-        <card number="1" name="Entomber Exarch"/>
-        <card number="1" name="Memorial to Folly"/>
-        <card number="1" name="Golgari Keyrune"/>
-        <card number="1" name="Plague Boiler"/>
-        <card number="1" name="Treasured Find"/>
-        <card number="1" name="Smallpox"/>
-        <card number="1" name="Revel in Riches"/>
-        <card number="1" name="Grisly Salvage"/>
-        <card number="1" name="Nekrataal"/>
-    </zone>
     <zone name="side">
         <card number="1" name="Mycoloth"/>
         <card number="1" name="Lightning Greaves"/>
@@ -101,5 +22,92 @@
         <card number="1" name="Champion of Stray Souls"/>
         <card number="1" name="Cloudthresher"/>
         <card number="1" name="Rot Shambler"/>
+        <card number="1" name="Golgari Keyrune"/>
+        <card number="1" name="Lotleth Giant"/>
+        <card number="1" name="Pestilence Demon"/>
+        <card number="1" name="Sepulchral Primordial"/>
+        <card number="1" name="Wood Elves"/>
+        <card number="1" name="Revel in Riches"/>
+        <card number="1" name="Swamp"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Meren of Clan Nel Toth"/>
+        <card number="1" name="Golgari Guildgate"/>
+        <card number="1" name="Dictate of Erebos"/>
+        <card number="1" name="Entomber Exarch"/>
+        <card number="1" name="Jungle Hollow"/>
+        <card number="1" name="Golgari Findbroker"/>
+        <card number="1" name="High Market"/>
+        <card number="1" name="Springbloom Druid"/>
+        <card number="12" name="Swamp"/>
+        <card number="1" name="Assassin's Trophy"/>
+        <card number="1" name="Corpse Connoisseur"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="12" name="Forest"/>
+        <card number="1" name="Harvester of Souls"/>
+        <card number="1" name="Tainted Wood"/>
+        <card number="1" name="Fleshbag Marauder"/>
+        <card number="1" name="Stitcher's Supplier"/>
+        <card number="1" name="Virulent Plague"/>
+        <card number="1" name="Terastodon"/>
+        <card number="1" name="Blood Artist"/>
+        <card number="1" name="Sheoldred, Whispering One"/>
+        <card number="1" name="Barter in Blood"/>
+        <card number="1" name="Indrik Stomphowler"/>
+        <card number="1" name="Treasured Find"/>
+        <card number="1" name="Gray Merchant of Asphodel"/>
+        <card number="1" name="Wall of Blossoms"/>
+        <card number="1" name="Puppeteer Clique"/>
+        <card number="1" name="Plaguecrafter"/>
+        <card number="1" name="Skullclamp"/>
+        <card number="1" name="Burglar Rat"/>
+        <card number="1" name="Nekrataal"/>
+        <card number="1" name="Grisly Salvage"/>
+        <card number="1" name="Sakura-Tribe Elder"/>
+        <card number="1" name="Spore Frog"/>
+        <card number="1" name="Snow-Covered Swamp"/>
+        <card number="1" name="Golgari Locket"/>
+        <card number="1" name="Victimize"/>
+        <card number="1" name="Kokusho, the Evening Star"/>
+        <card number="1" name="Vampiric Rites"/>
+        <card number="1" name="Night of Souls' Betrayal"/>
+        <card number="1" name="Diabolic Edict"/>
+        <card number="1" name="Eternal Witness"/>
+        <card number="1" name="Plague Boiler"/>
+        <card number="1" name="Mulch"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Memorial to Folly"/>
+        <card number="1" name="Innocent Blood"/>
+        <card number="1" name="Grim Backwoods"/>
+        <card number="1" name="Phyrexian Rager"/>
+        <card number="1" name="Dimir House Guard"/>
+        <card number="1" name="Merciless Executioner"/>
+        <card number="1" name="Pernicious Deed"/>
+        <card number="1" name="Pestilence"/>
+        <card number="1" name="Smallpox"/>
+        <card number="1" name="Ravenous Chupacabra"/>
+        <card number="1" name="Viscera Seer"/>
+        <card number="1" name="Buried Alive"/>
+        <card number="1" name="Necroplasm"/>
+        <card number="1" name="Golgari Rot Farm"/>
+        <card number="1" name="Glowspore Shaman"/>
+        <card number="1" name="Grave Pact"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Shriekmaw"/>
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Acidic Slime"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Polluted Mire"/>
+        <card number="1" name="Putrefy"/>
+        <card number="1" name="Barrier of Bones"/>
+        <card number="1" name="Viridian Zealot"/>
+        <card number="1" name="Thief of Blood"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Butcher of Malakir"/>
+        <card number="1" name="Tribute to the Wild"/>
+        <card number="1" name="Leechridden Swamp"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Caustic Caterpillar"/>
+        <card number="1" name="Disciple of Bolas"/>
     </zone>
 </cockatrice_deck>
